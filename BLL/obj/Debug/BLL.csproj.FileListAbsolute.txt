@@ -1,0 +1,359 @@
+D:\TCC\GUI\BLL\bin\Debug\BLL.dll
+D:\TCC\GUI\BLL\bin\Debug\BLL.pdb
+D:\TCC\GUI\BLL\bin\Debug\DAL.dll
+D:\TCC\GUI\BLL\bin\Debug\Modelos.dll
+D:\TCC\GUI\BLL\bin\Debug\DAL.pdb
+D:\TCC\GUI\BLL\bin\Debug\Modelos.pdb
+D:\TCC\GUI\BLL\obj\Debug\BLL.dll
+D:\TCC\GUI\BLL\obj\Debug\BLL.pdb
+D:\TCC\GUI\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\TCC\GUI\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\TCC\GUI\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\TCC\GUI\BLL\bin\Debug\WhatsAppApi.dll
+I:\TCC\GUI\BLL\bin\Debug\BLL.dll
+I:\TCC\GUI\BLL\bin\Debug\BLL.pdb
+I:\TCC\GUI\BLL\bin\Debug\DAL.dll
+I:\TCC\GUI\BLL\bin\Debug\Modelos.dll
+I:\TCC\GUI\BLL\bin\Debug\WhatsAppApi.dll
+I:\TCC\GUI\BLL\bin\Debug\DAL.pdb
+I:\TCC\GUI\BLL\bin\Debug\Modelos.pdb
+I:\TCC\GUI\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+I:\TCC\GUI\BLL\obj\Debug\BLL.dll
+I:\TCC\GUI\BLL\obj\Debug\BLL.pdb
+D:\GUI\BLL\bin\Debug\BLL.dll
+D:\GUI\BLL\bin\Debug\BLL.pdb
+D:\GUI\BLL\bin\Debug\CircularProgressBar.dll
+D:\GUI\BLL\bin\Debug\CommonWin32.dll
+D:\GUI\BLL\bin\Debug\DAL.dll
+D:\GUI\BLL\bin\Debug\MetroFramework.Design.dll
+D:\GUI\BLL\bin\Debug\MetroFramework.dll
+D:\GUI\BLL\bin\Debug\MetroFramework.Fonts.dll
+D:\GUI\BLL\bin\Debug\Modelos.dll
+D:\GUI\BLL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\GUI\BLL\bin\Debug\WhatsAppApi.dll
+D:\GUI\BLL\bin\Debug\WinFormAnimation.dll
+D:\GUI\BLL\bin\Debug\ZedGraph.dll
+D:\GUI\BLL\bin\Debug\DAL.pdb
+D:\GUI\BLL\bin\Debug\Modelos.pdb
+D:\GUI\BLL\bin\Debug\CommonWin32.pdb
+D:\GUI\BLL\bin\Debug\CommonWin32.xml
+D:\GUI\BLL\bin\Debug\ZedGraph.xml
+D:\GUI\BLL\bin\Debug\de\ZedGraph.resources.dll
+D:\GUI\BLL\bin\Debug\es\ZedGraph.resources.dll
+D:\GUI\BLL\bin\Debug\fr\ZedGraph.resources.dll
+D:\GUI\BLL\bin\Debug\hu\ZedGraph.resources.dll
+D:\GUI\BLL\bin\Debug\it\ZedGraph.resources.dll
+D:\GUI\BLL\bin\Debug\ja\ZedGraph.resources.dll
+D:\GUI\BLL\bin\Debug\pt\ZedGraph.resources.dll
+D:\GUI\BLL\bin\Debug\ru\ZedGraph.resources.dll
+D:\GUI\BLL\bin\Debug\sk\ZedGraph.resources.dll
+D:\GUI\BLL\bin\Debug\sv\ZedGraph.resources.dll
+D:\GUI\BLL\bin\Debug\tr\ZedGraph.resources.dll
+D:\GUI\BLL\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\GUI\BLL\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\GUI\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\GUI\BLL\obj\Debug\BLL.dll
+D:\GUI\BLL\obj\Debug\BLL.pdb
+F:\GUI\BLL\bin\Debug\BLL.dll
+F:\GUI\BLL\bin\Debug\BLL.pdb
+F:\GUI\BLL\bin\Debug\CircularProgressBar.dll
+F:\GUI\BLL\bin\Debug\CommonWin32.dll
+F:\GUI\BLL\bin\Debug\DAL.dll
+F:\GUI\BLL\bin\Debug\MetroFramework.Design.dll
+F:\GUI\BLL\bin\Debug\MetroFramework.dll
+F:\GUI\BLL\bin\Debug\MetroFramework.Fonts.dll
+F:\GUI\BLL\bin\Debug\Modelos.dll
+F:\GUI\BLL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\GUI\BLL\bin\Debug\WhatsAppApi.dll
+F:\GUI\BLL\bin\Debug\WinFormAnimation.dll
+F:\GUI\BLL\bin\Debug\ZedGraph.dll
+F:\GUI\BLL\bin\Debug\DAL.pdb
+F:\GUI\BLL\bin\Debug\Modelos.pdb
+F:\GUI\BLL\bin\Debug\CommonWin32.pdb
+F:\GUI\BLL\bin\Debug\CommonWin32.xml
+F:\GUI\BLL\bin\Debug\ZedGraph.xml
+F:\GUI\BLL\bin\Debug\de\ZedGraph.resources.dll
+F:\GUI\BLL\bin\Debug\es\ZedGraph.resources.dll
+F:\GUI\BLL\bin\Debug\fr\ZedGraph.resources.dll
+F:\GUI\BLL\bin\Debug\hu\ZedGraph.resources.dll
+F:\GUI\BLL\bin\Debug\it\ZedGraph.resources.dll
+F:\GUI\BLL\bin\Debug\ja\ZedGraph.resources.dll
+F:\GUI\BLL\bin\Debug\pt\ZedGraph.resources.dll
+F:\GUI\BLL\bin\Debug\ru\ZedGraph.resources.dll
+F:\GUI\BLL\bin\Debug\sk\ZedGraph.resources.dll
+F:\GUI\BLL\bin\Debug\sv\ZedGraph.resources.dll
+F:\GUI\BLL\bin\Debug\tr\ZedGraph.resources.dll
+F:\GUI\BLL\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\GUI\BLL\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\GUI\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\GUI\BLL\obj\Debug\BLL.dll
+F:\GUI\BLL\obj\Debug\BLL.pdb
+E:\Curso_Inglês\GUI\BLL\bin\Debug\BLL.dll
+E:\Curso_Inglês\GUI\BLL\bin\Debug\BLL.pdb
+E:\Curso_Inglês\GUI\BLL\bin\Debug\CircularProgressBar.dll
+E:\Curso_Inglês\GUI\BLL\bin\Debug\CommonWin32.dll
+E:\Curso_Inglês\GUI\BLL\bin\Debug\DAL.dll
+E:\Curso_Inglês\GUI\BLL\bin\Debug\MetroFramework.Design.dll
+E:\Curso_Inglês\GUI\BLL\bin\Debug\MetroFramework.dll
+E:\Curso_Inglês\GUI\BLL\bin\Debug\MetroFramework.Fonts.dll
+E:\Curso_Inglês\GUI\BLL\bin\Debug\Modelos.dll
+E:\Curso_Inglês\GUI\BLL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Curso_Inglês\GUI\BLL\bin\Debug\WhatsAppApi.dll
+E:\Curso_Inglês\GUI\BLL\bin\Debug\WinFormAnimation.dll
+E:\Curso_Inglês\GUI\BLL\bin\Debug\ZedGraph.dll
+E:\Curso_Inglês\GUI\BLL\bin\Debug\DAL.pdb
+E:\Curso_Inglês\GUI\BLL\bin\Debug\Modelos.pdb
+E:\Curso_Inglês\GUI\BLL\bin\Debug\CommonWin32.pdb
+E:\Curso_Inglês\GUI\BLL\bin\Debug\CommonWin32.xml
+E:\Curso_Inglês\GUI\BLL\bin\Debug\ZedGraph.xml
+E:\Curso_Inglês\GUI\BLL\bin\Debug\de\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\BLL\bin\Debug\es\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\BLL\bin\Debug\fr\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\BLL\bin\Debug\hu\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\BLL\bin\Debug\it\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\BLL\bin\Debug\ja\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\BLL\bin\Debug\pt\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\BLL\bin\Debug\ru\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\BLL\bin\Debug\sk\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\BLL\bin\Debug\sv\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\BLL\bin\Debug\tr\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\BLL\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\BLL\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Curso_Inglês\GUI\BLL\obj\Debug\BLL.dll
+E:\Curso_Inglês\GUI\BLL\obj\Debug\BLL.pdb
+D:\ETEC\GUI\BLL\bin\Debug\BLL.dll
+D:\ETEC\GUI\BLL\bin\Debug\BLL.pdb
+D:\ETEC\GUI\BLL\bin\Debug\CircularProgressBar.dll
+D:\ETEC\GUI\BLL\bin\Debug\CommonWin32.dll
+D:\ETEC\GUI\BLL\bin\Debug\DAL.dll
+D:\ETEC\GUI\BLL\bin\Debug\MetroFramework.Design.dll
+D:\ETEC\GUI\BLL\bin\Debug\MetroFramework.dll
+D:\ETEC\GUI\BLL\bin\Debug\MetroFramework.Fonts.dll
+D:\ETEC\GUI\BLL\bin\Debug\Modelos.dll
+D:\ETEC\GUI\BLL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ETEC\GUI\BLL\bin\Debug\WinFormAnimation.dll
+D:\ETEC\GUI\BLL\bin\Debug\DAL.pdb
+D:\ETEC\GUI\BLL\bin\Debug\Modelos.pdb
+D:\ETEC\GUI\BLL\bin\Debug\CommonWin32.pdb
+D:\ETEC\GUI\BLL\bin\Debug\CommonWin32.xml
+D:\ETEC\GUI\BLL\obj\Debug\BLL.dll
+D:\ETEC\GUI\BLL\obj\Debug\BLL.pdb
+D:\ETEC\GUI\BLL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ETEC\GUI\BLL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ETEC\GUI\BLL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ETEC\GUI\BLL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ETEC\GUI\BLL\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\ETEC\GUI\BLL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\ETEC\GUI\BLL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\ETEC\GUI\BLL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\ETEC\GUI\BLL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\ETEC\GUI\BLL\bin\Debug\BLL.dll
+F:\ETEC\GUI\BLL\bin\Debug\BLL.pdb
+F:\ETEC\GUI\BLL\bin\Debug\CircularProgressBar.dll
+F:\ETEC\GUI\BLL\bin\Debug\CommonWin32.dll
+F:\ETEC\GUI\BLL\bin\Debug\DAL.dll
+F:\ETEC\GUI\BLL\bin\Debug\MetroFramework.Design.dll
+F:\ETEC\GUI\BLL\bin\Debug\MetroFramework.dll
+F:\ETEC\GUI\BLL\bin\Debug\MetroFramework.Fonts.dll
+F:\ETEC\GUI\BLL\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\ETEC\GUI\BLL\bin\Debug\Modelos.dll
+F:\ETEC\GUI\BLL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\ETEC\GUI\BLL\bin\Debug\WinFormAnimation.dll
+F:\ETEC\GUI\BLL\bin\Debug\DAL.pdb
+F:\ETEC\GUI\BLL\bin\Debug\Modelos.pdb
+F:\ETEC\GUI\BLL\bin\Debug\CommonWin32.pdb
+F:\ETEC\GUI\BLL\bin\Debug\CommonWin32.xml
+F:\ETEC\GUI\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\ETEC\GUI\BLL\obj\Debug\BLL.dll
+F:\ETEC\GUI\BLL\obj\Debug\BLL.pdb
+C:\Users\Gabriel\Desktop\GUI\BLL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gabriel\Desktop\GUI\BLL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gabriel\Desktop\GUI\BLL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gabriel\Desktop\GUI\BLL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gabriel\Desktop\GUI\BLL\bin\Debug\BLL.dll
+C:\Users\Gabriel\Desktop\GUI\BLL\bin\Debug\BLL.pdb
+C:\Users\Gabriel\Desktop\GUI\BLL\bin\Debug\CircularProgressBar.dll
+C:\Users\Gabriel\Desktop\GUI\BLL\bin\Debug\CommonWin32.dll
+C:\Users\Gabriel\Desktop\GUI\BLL\bin\Debug\DAL.dll
+C:\Users\Gabriel\Desktop\GUI\BLL\bin\Debug\MetroFramework.Design.dll
+C:\Users\Gabriel\Desktop\GUI\BLL\bin\Debug\MetroFramework.dll
+C:\Users\Gabriel\Desktop\GUI\BLL\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Gabriel\Desktop\GUI\BLL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gabriel\Desktop\GUI\BLL\bin\Debug\Modelos.dll
+C:\Users\Gabriel\Desktop\GUI\BLL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gabriel\Desktop\GUI\BLL\bin\Debug\WinFormAnimation.dll
+C:\Users\Gabriel\Desktop\GUI\BLL\bin\Debug\DAL.pdb
+C:\Users\Gabriel\Desktop\GUI\BLL\bin\Debug\Modelos.pdb
+C:\Users\Gabriel\Desktop\GUI\BLL\bin\Debug\CommonWin32.pdb
+C:\Users\Gabriel\Desktop\GUI\BLL\bin\Debug\CommonWin32.xml
+C:\Users\Gabriel\Desktop\GUI\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\GUI\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\GUI\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\GUI\BLL\obj\Debug\BLL.dll
+C:\Users\Gabriel\Desktop\GUI\BLL\obj\Debug\BLL.pdb
+E:\ETEC\GUI\BLL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\ETEC\GUI\BLL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\ETEC\GUI\BLL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\ETEC\GUI\BLL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\ETEC\GUI\BLL\bin\Debug\BLL.dll
+E:\ETEC\GUI\BLL\bin\Debug\BLL.pdb
+E:\ETEC\GUI\BLL\bin\Debug\CircularProgressBar.dll
+E:\ETEC\GUI\BLL\bin\Debug\CommonWin32.dll
+E:\ETEC\GUI\BLL\bin\Debug\DAL.dll
+E:\ETEC\GUI\BLL\bin\Debug\MetroFramework.Design.dll
+E:\ETEC\GUI\BLL\bin\Debug\MetroFramework.dll
+E:\ETEC\GUI\BLL\bin\Debug\MetroFramework.Fonts.dll
+E:\ETEC\GUI\BLL\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\ETEC\GUI\BLL\bin\Debug\Modelos.dll
+E:\ETEC\GUI\BLL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ETEC\GUI\BLL\bin\Debug\WinFormAnimation.dll
+E:\ETEC\GUI\BLL\bin\Debug\DAL.pdb
+E:\ETEC\GUI\BLL\bin\Debug\Modelos.pdb
+E:\ETEC\GUI\BLL\bin\Debug\CommonWin32.pdb
+E:\ETEC\GUI\BLL\bin\Debug\CommonWin32.xml
+E:\ETEC\GUI\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\ETEC\GUI\BLL\obj\Debug\BLL.dll
+E:\ETEC\GUI\BLL\obj\Debug\BLL.pdb
+D:\ETEC\GUI\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\ETEC\GUI_Funcionando\BLL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ETEC\GUI_Funcionando\BLL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ETEC\GUI_Funcionando\BLL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ETEC\GUI_Funcionando\BLL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ETEC\GUI_Funcionando\BLL\bin\Debug\BLL.dll
+D:\ETEC\GUI_Funcionando\BLL\bin\Debug\BLL.pdb
+D:\ETEC\GUI_Funcionando\BLL\bin\Debug\CircularProgressBar.dll
+D:\ETEC\GUI_Funcionando\BLL\bin\Debug\CommonWin32.dll
+D:\ETEC\GUI_Funcionando\BLL\bin\Debug\DAL.dll
+D:\ETEC\GUI_Funcionando\BLL\bin\Debug\MetroFramework.Design.dll
+D:\ETEC\GUI_Funcionando\BLL\bin\Debug\MetroFramework.dll
+D:\ETEC\GUI_Funcionando\BLL\bin\Debug\MetroFramework.Fonts.dll
+D:\ETEC\GUI_Funcionando\BLL\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ETEC\GUI_Funcionando\BLL\bin\Debug\Modelos.dll
+D:\ETEC\GUI_Funcionando\BLL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ETEC\GUI_Funcionando\BLL\bin\Debug\WinFormAnimation.dll
+D:\ETEC\GUI_Funcionando\BLL\bin\Debug\DAL.pdb
+D:\ETEC\GUI_Funcionando\BLL\bin\Debug\Modelos.pdb
+D:\ETEC\GUI_Funcionando\BLL\bin\Debug\CommonWin32.pdb
+D:\ETEC\GUI_Funcionando\BLL\bin\Debug\CommonWin32.xml
+D:\ETEC\GUI_Funcionando\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\ETEC\GUI_Funcionando\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\ETEC\GUI_Funcionando\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\ETEC\GUI_Funcionando\BLL\obj\Debug\BLL.dll
+D:\ETEC\GUI_Funcionando\BLL\obj\Debug\BLL.pdb
+D:\ETEC\TCC\GUI_Funcionando\BLL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ETEC\TCC\GUI_Funcionando\BLL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ETEC\TCC\GUI_Funcionando\BLL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ETEC\TCC\GUI_Funcionando\BLL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ETEC\TCC\GUI_Funcionando\BLL\bin\Debug\BLL.dll
+D:\ETEC\TCC\GUI_Funcionando\BLL\bin\Debug\BLL.pdb
+D:\ETEC\TCC\GUI_Funcionando\BLL\bin\Debug\CircularProgressBar.dll
+D:\ETEC\TCC\GUI_Funcionando\BLL\bin\Debug\CommonWin32.dll
+D:\ETEC\TCC\GUI_Funcionando\BLL\bin\Debug\DAL.dll
+D:\ETEC\TCC\GUI_Funcionando\BLL\bin\Debug\MetroFramework.Design.dll
+D:\ETEC\TCC\GUI_Funcionando\BLL\bin\Debug\MetroFramework.dll
+D:\ETEC\TCC\GUI_Funcionando\BLL\bin\Debug\MetroFramework.Fonts.dll
+D:\ETEC\TCC\GUI_Funcionando\BLL\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ETEC\TCC\GUI_Funcionando\BLL\bin\Debug\Modelos.dll
+D:\ETEC\TCC\GUI_Funcionando\BLL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ETEC\TCC\GUI_Funcionando\BLL\bin\Debug\WinFormAnimation.dll
+D:\ETEC\TCC\GUI_Funcionando\BLL\bin\Debug\DAL.pdb
+D:\ETEC\TCC\GUI_Funcionando\BLL\bin\Debug\Modelos.pdb
+D:\ETEC\TCC\GUI_Funcionando\BLL\bin\Debug\CommonWin32.pdb
+D:\ETEC\TCC\GUI_Funcionando\BLL\bin\Debug\CommonWin32.xml
+D:\ETEC\TCC\GUI_Funcionando\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\ETEC\TCC\GUI_Funcionando\BLL\obj\Debug\BLL.dll
+D:\ETEC\TCC\GUI_Funcionando\BLL\obj\Debug\BLL.pdb
+C:\Users\Gabriel\Desktop\GUI_Funcionando\BLL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\BLL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\BLL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\BLL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\BLL\bin\Debug\BLL.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\BLL\bin\Debug\BLL.pdb
+C:\Users\Gabriel\Desktop\GUI_Funcionando\BLL\bin\Debug\CircularProgressBar.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\BLL\bin\Debug\CommonWin32.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\BLL\bin\Debug\DAL.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\BLL\bin\Debug\MetroFramework.Design.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\BLL\bin\Debug\MetroFramework.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\BLL\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\BLL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\BLL\bin\Debug\Modelos.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\BLL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\BLL\bin\Debug\WinFormAnimation.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\BLL\bin\Debug\DAL.pdb
+C:\Users\Gabriel\Desktop\GUI_Funcionando\BLL\bin\Debug\Modelos.pdb
+C:\Users\Gabriel\Desktop\GUI_Funcionando\BLL\bin\Debug\CommonWin32.pdb
+C:\Users\Gabriel\Desktop\GUI_Funcionando\BLL\bin\Debug\CommonWin32.xml
+C:\Users\Gabriel\Desktop\GUI_Funcionando\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\GUI_Funcionando\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\GUI_Funcionando\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\GUI_Funcionando\BLL\obj\Debug\BLL.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\BLL\obj\Debug\BLL.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\BLL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\BLL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\BLL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\BLL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\BLL\bin\Debug\BLL.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\BLL\bin\Debug\BLL.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\BLL\bin\Debug\CircularProgressBar.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\BLL\bin\Debug\CommonWin32.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\BLL\bin\Debug\DAL.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\BLL\bin\Debug\MetroFramework.Design.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\BLL\bin\Debug\MetroFramework.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\BLL\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\BLL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\BLL\bin\Debug\Modelos.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\BLL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\BLL\bin\Debug\WinFormAnimation.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\BLL\bin\Debug\DAL.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\BLL\bin\Debug\Modelos.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\BLL\bin\Debug\CommonWin32.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\BLL\bin\Debug\CommonWin32.xml
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\BLL\obj\Debug\BLL.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\BLL\obj\Debug\BLL.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\BLL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\BLL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\BLL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\BLL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\BLL\bin\Debug\BLL.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\BLL\bin\Debug\BLL.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\BLL\bin\Debug\CommonWin32.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\BLL\bin\Debug\DAL.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\BLL\bin\Debug\MetroFramework.Design.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\BLL\bin\Debug\MetroFramework.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\BLL\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\BLL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\BLL\bin\Debug\Modelos.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\BLL\bin\Debug\DAL.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\BLL\bin\Debug\Modelos.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\BLL\bin\Debug\CommonWin32.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\BLL\bin\Debug\CommonWin32.xml
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\BLL\obj\Debug\BLL.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\BLL\obj\Debug\BLL.pdb
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\BLL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\BLL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\BLL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\BLL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\BLL\bin\Debug\BLL.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\BLL\bin\Debug\BLL.pdb
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\BLL\bin\Debug\CommonWin32.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\BLL\bin\Debug\DAL.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\BLL\bin\Debug\MetroFramework.Design.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\BLL\bin\Debug\MetroFramework.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\BLL\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\BLL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\BLL\bin\Debug\Modelos.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\BLL\bin\Debug\DAL.pdb
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\BLL\bin\Debug\Modelos.pdb
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\BLL\bin\Debug\CommonWin32.pdb
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\BLL\bin\Debug\CommonWin32.xml
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\BLL\obj\Debug\BLL.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\BLL\obj\Debug\BLL.pdb

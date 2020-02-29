@@ -1,0 +1,2105 @@
+C:\Users\Alphamon\source\repos\GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\Alphamon\source\repos\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\Alphamon\source\repos\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\Alphamon\source\repos\GUI\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Alphamon\source\repos\GUI\GUI\obj\Debug\GUI.FormPrimario.resources
+C:\Users\Alphamon\source\repos\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Alphamon\source\repos\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Alphamon\source\repos\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Alphamon\source\repos\GUI\GUI\obj\Debug\GUI.exe
+C:\Users\Alphamon\source\repos\GUI\GUI\obj\Debug\GUI.pdb
+C:\Users\Alphamon\source\repos\GUI\GUI\obj\Debug\GUI.Cliente.ClienteForm.resources
+C:\Users\Alphamon\source\repos\GUI\GUI\obj\Debug\GUI.Produto.ProdutoForm.resources
+I:\GUI\GUI\bin\Debug\GUI.exe.config
+I:\GUI\GUI\bin\Debug\GUI.exe
+I:\GUI\GUI\bin\Debug\GUI.pdb
+I:\GUI\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+I:\GUI\GUI\obj\Debug\GUI.Cliente.ClienteForm.resources
+I:\GUI\GUI\obj\Debug\GUI.FormPrimario.resources
+I:\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+I:\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+I:\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+I:\GUI\GUI\obj\Debug\GUI.exe
+I:\GUI\GUI\obj\Debug\GUI.pdb
+D:\GUI\GUI\bin\Debug\GUI.exe.config
+D:\GUI\GUI\obj\Debug\GUI.exe
+D:\GUI\GUI\obj\Debug\GUI.pdb
+D:\GUI\GUI\bin\Debug\GUI.exe
+D:\GUI\GUI\bin\Debug\GUI.pdb
+D:\GUI\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\GUI\GUI\obj\Debug\GUI.FormPrimario.resources
+D:\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\GUI\GUI\obj\Debug\GUI.Venda.VendaForm.resources
+I:\GUI\GUI\obj\Debug\GUI.Venda.VendaForm.resources
+I:\GUI\GUI\obj\Debug\GUI.Produto.FormProduto.resources
+I:\GUI\GUI\obj\Debug\GUI.Produto.FormNovoEstoque.resources
+I:\GUI\GUI\obj\Debug\GUI.Produto.UCProduto.resources
+D:\GUI\GUI\obj\Debug\GUI.Produto.FormNovoEstoque.resources
+D:\GUI\GUI\obj\Debug\GUI.Produto.FormProduto.resources
+D:\GUI\GUI\obj\Debug\GUI.Produto.UCProduto.resources
+I:\GUI\GUI\bin\Debug\AltoControls.dll
+I:\GUI\GUI\bin\Debug\CircularProgressBar.dll
+I:\GUI\GUI\bin\Debug\WinFormAnimation.dll
+I:\GUI\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\GUI\GUI\bin\Debug\GUI.exe.config
+E:\GUI\GUI\bin\Debug\GUI.exe
+E:\GUI\GUI\bin\Debug\GUI.pdb
+E:\GUI\GUI\bin\Debug\AltoControls.dll
+E:\GUI\GUI\bin\Debug\CircularProgressBar.dll
+E:\GUI\GUI\bin\Debug\WinFormAnimation.dll
+E:\GUI\GUI\obj\Debug\GUI.FormPrimario.resources
+E:\GUI\GUI\obj\Debug\GUI.Produto.FormNovoEstoque.resources
+E:\GUI\GUI\obj\Debug\GUI.Produto.FormProduto.resources
+E:\GUI\GUI\obj\Debug\GUI.Produto.UCProduto.resources
+E:\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\GUI\GUI\obj\Debug\GUI.UserControl1.resources
+E:\GUI\GUI\obj\Debug\GUI.Venda.VendaForm.resources
+E:\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\GUI\GUI\obj\Debug\GUI.exe
+E:\GUI\GUI\obj\Debug\GUI.pdb
+E:\GUI\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\GUI\GUI\obj\Debug\GUI.Cliente.ClientesForms.resources
+E:\GUI\GUI\obj\Debug\GUI.Cliente.DividaForm.resources
+E:\GUI\GUI\obj\Debug\GUI.Login.frmLogin.resources
+D:\TCC\GUI\GUI\bin\Debug\GUI.exe.config
+D:\TCC\GUI\GUI\obj\Debug\GUI.exe
+D:\TCC\GUI\GUI\obj\Debug\GUI.pdb
+D:\TCC\GUI\GUI\obj\Debug\GUI.Aida.frmAida.resources
+D:\TCC\GUI\GUI\obj\Debug\GUI.Cliente.ClientesForms.resources
+D:\TCC\GUI\GUI\obj\Debug\GUI.Cliente.DividaForm.resources
+D:\TCC\GUI\GUI\obj\Debug\GUI.FormPrimario.resources
+D:\TCC\GUI\GUI\obj\Debug\GUI.Login.frmLogin.resources
+D:\TCC\GUI\GUI\obj\Debug\GUI.Produto.FormNovoEstoque.resources
+D:\TCC\GUI\GUI\obj\Debug\GUI.Produto.FormProduto.resources
+D:\TCC\GUI\GUI\obj\Debug\GUI.Produto.UCProduto.resources
+D:\TCC\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\TCC\GUI\GUI\obj\Debug\GUI.UserControl1.resources
+D:\TCC\GUI\GUI\obj\Debug\GUI.Venda.VendaForm.resources
+D:\TCC\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\TCC\GUI\GUI\bin\Debug\GUI.exe
+D:\TCC\GUI\GUI\bin\Debug\GUI.pdb
+D:\TCC\GUI\GUI\bin\Debug\AltoControls.dll
+D:\TCC\GUI\GUI\bin\Debug\BLL.dll
+D:\TCC\GUI\GUI\bin\Debug\CircularProgressBar.dll
+D:\TCC\GUI\GUI\bin\Debug\Modelos.dll
+D:\TCC\GUI\GUI\bin\Debug\WinFormAnimation.dll
+D:\TCC\GUI\GUI\bin\Debug\DAL.dll
+D:\TCC\GUI\GUI\bin\Debug\BLL.pdb
+D:\TCC\GUI\GUI\bin\Debug\Modelos.pdb
+D:\TCC\GUI\GUI\bin\Debug\DAL.pdb
+D:\TCC\GUI\GUI\bin\Debug\Chart.Mvc.dll
+D:\TCC\GUI\GUI\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\TCC\GUI\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\TCC\GUI\GUI\bin\Debug\System.Web.Helpers.dll
+D:\TCC\GUI\GUI\bin\Debug\System.Web.Mvc.dll
+D:\TCC\GUI\GUI\bin\Debug\System.Web.Razor.dll
+D:\TCC\GUI\GUI\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\TCC\GUI\GUI\bin\Debug\System.Web.WebPages.dll
+D:\TCC\GUI\GUI\bin\Debug\System.Web.WebPages.Razor.dll
+D:\TCC\GUI\GUI\bin\Debug\Chart.Mvc.pdb
+D:\TCC\GUI\GUI\bin\Debug\Chart.Mvc.xml
+D:\TCC\GUI\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\TCC\GUI\GUI\bin\Debug\System.Web.Helpers.xml
+D:\TCC\GUI\GUI\bin\Debug\System.Web.Mvc.xml
+D:\TCC\GUI\GUI\bin\Debug\System.Web.Razor.xml
+D:\TCC\GUI\GUI\bin\Debug\System.Web.WebPages.xml
+D:\TCC\GUI\GUI\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\TCC\GUI\GUI\bin\Debug\System.Web.WebPages.Razor.xml
+D:\TCC\GUI\GUI\bin\Debug\Microsoft.Speech.dll
+D:\TCC\GUI\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\TCC\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\TCC\GUI\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\TCC\GUI\GUI\bin\Debug\WhatsAppApi.dll
+D:\TCC\GUI\GUI\obj\Debug\GUI.EnviarMensagem.resources
+I:\TCC\GUI\GUI\bin\Debug\GUI.exe.config
+I:\TCC\GUI\GUI\obj\Debug\GUI.exe
+I:\TCC\GUI\GUI\obj\Debug\GUI.pdb
+I:\TCC\GUI\GUI\bin\Debug\GUI.exe
+I:\TCC\GUI\GUI\bin\Debug\GUI.pdb
+I:\TCC\GUI\GUI\bin\Debug\AltoControls.dll
+I:\TCC\GUI\GUI\bin\Debug\BLL.dll
+I:\TCC\GUI\GUI\bin\Debug\Chart.Mvc.dll
+I:\TCC\GUI\GUI\bin\Debug\CircularProgressBar.dll
+I:\TCC\GUI\GUI\bin\Debug\Microsoft.Web.Infrastructure.dll
+I:\TCC\GUI\GUI\bin\Debug\Modelos.dll
+I:\TCC\GUI\GUI\bin\Debug\Newtonsoft.Json.dll
+I:\TCC\GUI\GUI\bin\Debug\System.Web.Helpers.dll
+I:\TCC\GUI\GUI\bin\Debug\System.Web.Mvc.dll
+I:\TCC\GUI\GUI\bin\Debug\System.Web.Razor.dll
+I:\TCC\GUI\GUI\bin\Debug\System.Web.WebPages.Deployment.dll
+I:\TCC\GUI\GUI\bin\Debug\System.Web.WebPages.dll
+I:\TCC\GUI\GUI\bin\Debug\System.Web.WebPages.Razor.dll
+I:\TCC\GUI\GUI\bin\Debug\WhatsAppApi.dll
+I:\TCC\GUI\GUI\bin\Debug\WinFormAnimation.dll
+I:\TCC\GUI\GUI\bin\Debug\DAL.dll
+I:\TCC\GUI\GUI\bin\Debug\BLL.pdb
+I:\TCC\GUI\GUI\bin\Debug\Modelos.pdb
+I:\TCC\GUI\GUI\bin\Debug\Chart.Mvc.pdb
+I:\TCC\GUI\GUI\bin\Debug\Chart.Mvc.xml
+I:\TCC\GUI\GUI\bin\Debug\Newtonsoft.Json.xml
+I:\TCC\GUI\GUI\bin\Debug\System.Web.Helpers.xml
+I:\TCC\GUI\GUI\bin\Debug\System.Web.Mvc.xml
+I:\TCC\GUI\GUI\bin\Debug\System.Web.Razor.xml
+I:\TCC\GUI\GUI\bin\Debug\System.Web.WebPages.xml
+I:\TCC\GUI\GUI\bin\Debug\System.Web.WebPages.Deployment.xml
+I:\TCC\GUI\GUI\bin\Debug\System.Web.WebPages.Razor.xml
+I:\TCC\GUI\GUI\bin\Debug\DAL.pdb
+I:\TCC\GUI\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+I:\TCC\GUI\GUI\obj\Debug\GUI.Aida.frmAida.resources
+I:\TCC\GUI\GUI\obj\Debug\GUI.Cliente.ClientesForms.resources
+I:\TCC\GUI\GUI\obj\Debug\GUI.Cliente.DividaForm.resources
+I:\TCC\GUI\GUI\obj\Debug\GUI.FormPrimario.resources
+I:\TCC\GUI\GUI\obj\Debug\GUI.frmCaixa.resources
+I:\TCC\GUI\GUI\obj\Debug\GUI.Login.frmLogin.resources
+I:\TCC\GUI\GUI\obj\Debug\GUI.Produto.FormNovoEstoque.resources
+I:\TCC\GUI\GUI\obj\Debug\GUI.Produto.FormProduto.resources
+I:\TCC\GUI\GUI\obj\Debug\GUI.Produto.UCProduto.resources
+I:\TCC\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+I:\TCC\GUI\GUI\obj\Debug\GUI.UserControl1.resources
+I:\TCC\GUI\GUI\obj\Debug\GUI.Venda.VendaForm.resources
+I:\TCC\GUI\GUI\obj\Debug\GUI.EnviarMensagem.resources
+I:\TCC\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\GUI\GUI\bin\Debug\AltoControls.dll
+D:\GUI\GUI\bin\Debug\BLL.dll
+D:\GUI\GUI\bin\Debug\Chart.Mvc.dll
+D:\GUI\GUI\bin\Debug\CircularProgressBar.dll
+D:\GUI\GUI\bin\Debug\CommonWin32.dll
+D:\GUI\GUI\bin\Debug\DAL.dll
+D:\GUI\GUI\bin\Debug\MetroFramework.Design.dll
+D:\GUI\GUI\bin\Debug\MetroFramework.dll
+D:\GUI\GUI\bin\Debug\MetroFramework.Fonts.dll
+D:\GUI\GUI\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\GUI\GUI\bin\Debug\Modelos.dll
+D:\GUI\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\GUI\GUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\GUI\GUI\bin\Debug\System.Web.Helpers.dll
+D:\GUI\GUI\bin\Debug\System.Web.Mvc.dll
+D:\GUI\GUI\bin\Debug\System.Web.Razor.dll
+D:\GUI\GUI\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\GUI\GUI\bin\Debug\System.Web.WebPages.dll
+D:\GUI\GUI\bin\Debug\System.Web.WebPages.Razor.dll
+D:\GUI\GUI\bin\Debug\WhatsAppApi.dll
+D:\GUI\GUI\bin\Debug\WinFormAnimation.dll
+D:\GUI\GUI\bin\Debug\ZedGraph.dll
+D:\GUI\GUI\bin\Debug\BLL.pdb
+D:\GUI\GUI\bin\Debug\DAL.pdb
+D:\GUI\GUI\bin\Debug\Modelos.pdb
+D:\GUI\GUI\bin\Debug\Chart.Mvc.pdb
+D:\GUI\GUI\bin\Debug\Chart.Mvc.xml
+D:\GUI\GUI\bin\Debug\CommonWin32.pdb
+D:\GUI\GUI\bin\Debug\CommonWin32.xml
+D:\GUI\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\GUI\GUI\bin\Debug\System.Web.Helpers.xml
+D:\GUI\GUI\bin\Debug\System.Web.Mvc.xml
+D:\GUI\GUI\bin\Debug\System.Web.Razor.xml
+D:\GUI\GUI\bin\Debug\System.Web.WebPages.xml
+D:\GUI\GUI\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\GUI\GUI\bin\Debug\System.Web.WebPages.Razor.xml
+D:\GUI\GUI\bin\Debug\ZedGraph.xml
+D:\GUI\GUI\bin\Debug\de\ZedGraph.resources.dll
+D:\GUI\GUI\bin\Debug\es\ZedGraph.resources.dll
+D:\GUI\GUI\bin\Debug\fr\ZedGraph.resources.dll
+D:\GUI\GUI\bin\Debug\hu\ZedGraph.resources.dll
+D:\GUI\GUI\bin\Debug\it\ZedGraph.resources.dll
+D:\GUI\GUI\bin\Debug\ja\ZedGraph.resources.dll
+D:\GUI\GUI\bin\Debug\pt\ZedGraph.resources.dll
+D:\GUI\GUI\bin\Debug\ru\ZedGraph.resources.dll
+D:\GUI\GUI\bin\Debug\sk\ZedGraph.resources.dll
+D:\GUI\GUI\bin\Debug\sv\ZedGraph.resources.dll
+D:\GUI\GUI\bin\Debug\tr\ZedGraph.resources.dll
+D:\GUI\GUI\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\GUI\GUI\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\GUI\GUI\obj\Debug\GUI.Aida.frmAida.resources
+D:\GUI\GUI\obj\Debug\GUI.Cliente.ClientesForms.resources
+D:\GUI\GUI\obj\Debug\GUI.Cliente.DividaForm.resources
+D:\GUI\GUI\obj\Debug\GUI.Configurações.frmConfiguracoes.resources
+D:\GUI\GUI\obj\Debug\GUI.frmCaixa.resources
+D:\GUI\GUI\obj\Debug\GUI.Login.frmLogin.resources
+D:\GUI\GUI\obj\Debug\GUI.UserControl1.resources
+F:\GUI\GUI\bin\Debug\GUI.exe.config
+F:\GUI\GUI\obj\Debug\GUI.exe
+F:\GUI\GUI\obj\Debug\GUI.pdb
+F:\GUI\GUI\bin\Debug\GUI.exe
+F:\GUI\GUI\bin\Debug\GUI.pdb
+F:\GUI\GUI\bin\Debug\AltoControls.dll
+F:\GUI\GUI\bin\Debug\BLL.dll
+F:\GUI\GUI\bin\Debug\Chart.Mvc.dll
+F:\GUI\GUI\bin\Debug\CircularProgressBar.dll
+F:\GUI\GUI\bin\Debug\CommonWin32.dll
+F:\GUI\GUI\bin\Debug\DAL.dll
+F:\GUI\GUI\bin\Debug\MetroFramework.Design.dll
+F:\GUI\GUI\bin\Debug\MetroFramework.dll
+F:\GUI\GUI\bin\Debug\MetroFramework.Fonts.dll
+F:\GUI\GUI\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\GUI\GUI\bin\Debug\Modelos.dll
+F:\GUI\GUI\bin\Debug\Newtonsoft.Json.dll
+F:\GUI\GUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\GUI\GUI\bin\Debug\System.Web.Helpers.dll
+F:\GUI\GUI\bin\Debug\System.Web.Mvc.dll
+F:\GUI\GUI\bin\Debug\System.Web.Razor.dll
+F:\GUI\GUI\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\GUI\GUI\bin\Debug\System.Web.WebPages.dll
+F:\GUI\GUI\bin\Debug\System.Web.WebPages.Razor.dll
+F:\GUI\GUI\bin\Debug\WhatsAppApi.dll
+F:\GUI\GUI\bin\Debug\WinFormAnimation.dll
+F:\GUI\GUI\bin\Debug\ZedGraph.dll
+F:\GUI\GUI\bin\Debug\BLL.pdb
+F:\GUI\GUI\bin\Debug\DAL.pdb
+F:\GUI\GUI\bin\Debug\Modelos.pdb
+F:\GUI\GUI\bin\Debug\Chart.Mvc.pdb
+F:\GUI\GUI\bin\Debug\Chart.Mvc.xml
+F:\GUI\GUI\bin\Debug\CommonWin32.pdb
+F:\GUI\GUI\bin\Debug\CommonWin32.xml
+F:\GUI\GUI\bin\Debug\Newtonsoft.Json.xml
+F:\GUI\GUI\bin\Debug\System.Web.Helpers.xml
+F:\GUI\GUI\bin\Debug\System.Web.Mvc.xml
+F:\GUI\GUI\bin\Debug\System.Web.Razor.xml
+F:\GUI\GUI\bin\Debug\System.Web.WebPages.xml
+F:\GUI\GUI\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\GUI\GUI\bin\Debug\System.Web.WebPages.Razor.xml
+F:\GUI\GUI\bin\Debug\ZedGraph.xml
+F:\GUI\GUI\bin\Debug\de\ZedGraph.resources.dll
+F:\GUI\GUI\bin\Debug\es\ZedGraph.resources.dll
+F:\GUI\GUI\bin\Debug\fr\ZedGraph.resources.dll
+F:\GUI\GUI\bin\Debug\hu\ZedGraph.resources.dll
+F:\GUI\GUI\bin\Debug\it\ZedGraph.resources.dll
+F:\GUI\GUI\bin\Debug\ja\ZedGraph.resources.dll
+F:\GUI\GUI\bin\Debug\pt\ZedGraph.resources.dll
+F:\GUI\GUI\bin\Debug\ru\ZedGraph.resources.dll
+F:\GUI\GUI\bin\Debug\sk\ZedGraph.resources.dll
+F:\GUI\GUI\bin\Debug\sv\ZedGraph.resources.dll
+F:\GUI\GUI\bin\Debug\tr\ZedGraph.resources.dll
+F:\GUI\GUI\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\GUI\GUI\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\GUI\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\GUI\GUI\obj\Debug\GUI.Aida.frmAida.resources
+F:\GUI\GUI\obj\Debug\GUI.Cliente.ClientesForms.resources
+F:\GUI\GUI\obj\Debug\GUI.Cliente.DividaForm.resources
+F:\GUI\GUI\obj\Debug\GUI.Configurações.frmConfiguracoes.resources
+F:\GUI\GUI\obj\Debug\GUI.FormPrimario.resources
+F:\GUI\GUI\obj\Debug\GUI.frmCaixa.resources
+F:\GUI\GUI\obj\Debug\GUI.Login.frmLogin.resources
+F:\GUI\GUI\obj\Debug\GUI.Produto.FormNovoEstoque.resources
+F:\GUI\GUI\obj\Debug\GUI.Produto.FormProduto.resources
+F:\GUI\GUI\obj\Debug\GUI.Produto.UCProduto.resources
+F:\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\GUI\GUI\obj\Debug\GUI.UserControl1.resources
+F:\GUI\GUI\obj\Debug\GUI.Venda.VendaForm.resources
+F:\GUI\GUI\obj\Debug\GUI.EnviarMensagem.resources
+F:\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Curso_Inglês\GUI\GUI\bin\Debug\GUI.exe.config
+E:\Curso_Inglês\GUI\GUI\obj\Debug\GUI.exe
+E:\Curso_Inglês\GUI\GUI\obj\Debug\GUI.pdb
+E:\Curso_Inglês\GUI\GUI\bin\Debug\GUI.exe
+E:\Curso_Inglês\GUI\GUI\bin\Debug\GUI.pdb
+E:\Curso_Inglês\GUI\GUI\bin\Debug\AltoControls.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\BLL.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\Chart.Mvc.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\CircularProgressBar.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\CommonWin32.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\DAL.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\MetroFramework.Design.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\MetroFramework.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\MetroFramework.Fonts.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\Modelos.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\Newtonsoft.Json.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\System.Web.Helpers.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\System.Web.Mvc.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\System.Web.Razor.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\System.Web.WebPages.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\WhatsAppApi.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\WinFormAnimation.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\ZedGraph.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\BLL.pdb
+E:\Curso_Inglês\GUI\GUI\bin\Debug\DAL.pdb
+E:\Curso_Inglês\GUI\GUI\bin\Debug\Modelos.pdb
+E:\Curso_Inglês\GUI\GUI\bin\Debug\Chart.Mvc.pdb
+E:\Curso_Inglês\GUI\GUI\bin\Debug\Chart.Mvc.xml
+E:\Curso_Inglês\GUI\GUI\bin\Debug\CommonWin32.pdb
+E:\Curso_Inglês\GUI\GUI\bin\Debug\CommonWin32.xml
+E:\Curso_Inglês\GUI\GUI\bin\Debug\Newtonsoft.Json.xml
+E:\Curso_Inglês\GUI\GUI\bin\Debug\System.Web.Helpers.xml
+E:\Curso_Inglês\GUI\GUI\bin\Debug\System.Web.Mvc.xml
+E:\Curso_Inglês\GUI\GUI\bin\Debug\System.Web.Razor.xml
+E:\Curso_Inglês\GUI\GUI\bin\Debug\System.Web.WebPages.xml
+E:\Curso_Inglês\GUI\GUI\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Curso_Inglês\GUI\GUI\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Curso_Inglês\GUI\GUI\bin\Debug\ZedGraph.xml
+E:\Curso_Inglês\GUI\GUI\bin\Debug\de\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\es\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\fr\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\hu\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\it\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\ja\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\pt\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\ru\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\sk\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\sv\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\tr\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\GUI\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Curso_Inglês\GUI\GUI\obj\Debug\GUI.Aida.frmAida.resources
+E:\Curso_Inglês\GUI\GUI\obj\Debug\GUI.Cliente.ClientesForms.resources
+E:\Curso_Inglês\GUI\GUI\obj\Debug\GUI.Cliente.DividaForm.resources
+E:\Curso_Inglês\GUI\GUI\obj\Debug\GUI.Configurações.frmConfiguracoes.resources
+E:\Curso_Inglês\GUI\GUI\obj\Debug\GUI.FormPrimario.resources
+E:\Curso_Inglês\GUI\GUI\obj\Debug\GUI.frmCaixa.resources
+E:\Curso_Inglês\GUI\GUI\obj\Debug\GUI.Login.frmLogin.resources
+E:\Curso_Inglês\GUI\GUI\obj\Debug\GUI.Produto.FormNovoEstoque.resources
+E:\Curso_Inglês\GUI\GUI\obj\Debug\GUI.Produto.FormProduto.resources
+E:\Curso_Inglês\GUI\GUI\obj\Debug\GUI.Produto.UCProduto.resources
+E:\Curso_Inglês\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Curso_Inglês\GUI\GUI\obj\Debug\GUI.UserControl1.resources
+E:\Curso_Inglês\GUI\GUI\obj\Debug\GUI.Venda.VendaForm.resources
+E:\Curso_Inglês\GUI\GUI\obj\Debug\GUI.EnviarMensagem.resources
+E:\Curso_Inglês\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\ETEC\GUI\GUI\bin\Debug\GUI.exe.config
+D:\ETEC\GUI\GUI\bin\Debug\GUI.exe
+D:\ETEC\GUI\GUI\bin\Debug\GUI.pdb
+D:\ETEC\GUI\GUI\bin\Debug\AltoControls.dll
+D:\ETEC\GUI\GUI\bin\Debug\BLL.dll
+D:\ETEC\GUI\GUI\bin\Debug\Chart.Mvc.dll
+D:\ETEC\GUI\GUI\bin\Debug\CircularProgressBar.dll
+D:\ETEC\GUI\GUI\bin\Debug\CommonWin32.dll
+D:\ETEC\GUI\GUI\bin\Debug\DAL.dll
+D:\ETEC\GUI\GUI\bin\Debug\MetroFramework.Design.dll
+D:\ETEC\GUI\GUI\bin\Debug\MetroFramework.dll
+D:\ETEC\GUI\GUI\bin\Debug\MetroFramework.Fonts.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\ETEC\GUI\GUI\bin\Debug\Modelos.dll
+D:\ETEC\GUI\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\ETEC\GUI\GUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ETEC\GUI\GUI\bin\Debug\System.Web.Helpers.dll
+D:\ETEC\GUI\GUI\bin\Debug\System.Web.Mvc.dll
+D:\ETEC\GUI\GUI\bin\Debug\System.Web.Razor.dll
+D:\ETEC\GUI\GUI\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\ETEC\GUI\GUI\bin\Debug\System.Web.WebPages.dll
+D:\ETEC\GUI\GUI\bin\Debug\System.Web.WebPages.Razor.dll
+D:\ETEC\GUI\GUI\bin\Debug\WinFormAnimation.dll
+D:\ETEC\GUI\GUI\bin\Debug\BLL.pdb
+D:\ETEC\GUI\GUI\bin\Debug\DAL.pdb
+D:\ETEC\GUI\GUI\bin\Debug\Modelos.pdb
+D:\ETEC\GUI\GUI\bin\Debug\Chart.Mvc.pdb
+D:\ETEC\GUI\GUI\bin\Debug\Chart.Mvc.xml
+D:\ETEC\GUI\GUI\bin\Debug\CommonWin32.pdb
+D:\ETEC\GUI\GUI\bin\Debug\CommonWin32.xml
+D:\ETEC\GUI\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\ETEC\GUI\GUI\bin\Debug\System.Web.Helpers.xml
+D:\ETEC\GUI\GUI\bin\Debug\System.Web.Mvc.xml
+D:\ETEC\GUI\GUI\bin\Debug\System.Web.Razor.xml
+D:\ETEC\GUI\GUI\bin\Debug\System.Web.WebPages.xml
+D:\ETEC\GUI\GUI\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\ETEC\GUI\GUI\bin\Debug\System.Web.WebPages.Razor.xml
+D:\ETEC\GUI\GUI\obj\Debug\GUI.Cliente.ClientesForms.resources
+D:\ETEC\GUI\GUI\obj\Debug\GUI.Cliente.DividaForm.resources
+D:\ETEC\GUI\GUI\obj\Debug\GUI.Configurações.frmConfiguracoes.resources
+D:\ETEC\GUI\GUI\obj\Debug\GUI.FormPrimario.resources
+D:\ETEC\GUI\GUI\obj\Debug\GUI.frmCaixa.resources
+D:\ETEC\GUI\GUI\obj\Debug\GUI.Login.frmLogin.resources
+D:\ETEC\GUI\GUI\obj\Debug\GUI.Produto.FormNovoEstoque.resources
+D:\ETEC\GUI\GUI\obj\Debug\GUI.Produto.FormProduto.resources
+D:\ETEC\GUI\GUI\obj\Debug\GUI.Produto.UCProduto.resources
+D:\ETEC\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\ETEC\GUI\GUI\obj\Debug\GUI.UserControl1.resources
+D:\ETEC\GUI\GUI\obj\Debug\GUI.Venda.VendaForm.resources
+D:\ETEC\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\ETEC\GUI\GUI\obj\Debug\GUI.exe
+D:\ETEC\GUI\GUI\obj\Debug\GUI.pdb
+D:\ETEC\GUI\GUI\obj\Debug\GUI.Gastos.frmGastos.resources
+D:\ETEC\GUI\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ETEC\GUI\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ETEC\GUI\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ETEC\GUI\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ETEC\GUI\GUI\bin\Debug\EnvDTE.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\ETEC\GUI\GUI\bin\Debug\stdole.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\ETEC\GUI\GUI\bin\Debug\EnvDTE80.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\ETEC\GUI\GUI\bin\Debug\VSLangProj.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\ETEC\GUI\GUI\bin\Debug\VSLangProj80.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.MSXML.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.Build.Framework.dll
+D:\ETEC\GUI\GUI\bin\Debug\VSLangProj2.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\ETEC\GUI\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\GUI\GUI\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+D:\ETEC\GUI\GUI\obj\Debug\GUI.Anexis.frmAida.resources
+D:\ETEC\GUI\GUI\obj\Debug\GUI.Relatorios.Fechamentos.frmRelatorioDiario.resources
+D:\ETEC\GUI\GUI\obj\Debug\RdlCompile.cache
+D:\ETEC\GUI\GUI\obj\Debug\RdlCompile.compiled
+F:\ETEC\GUI\GUI\bin\Debug\GUI.exe.config
+F:\ETEC\GUI\GUI\obj\Debug\GUI.exe
+F:\ETEC\GUI\GUI\obj\Debug\GUI.pdb
+F:\ETEC\GUI\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\ETEC\GUI\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\ETEC\GUI\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\ETEC\GUI\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\ETEC\GUI\GUI\bin\Debug\GUI.exe
+F:\ETEC\GUI\GUI\bin\Debug\GUI.pdb
+F:\ETEC\GUI\GUI\bin\Debug\AltoControls.dll
+F:\ETEC\GUI\GUI\bin\Debug\BLL.dll
+F:\ETEC\GUI\GUI\bin\Debug\Chart.Mvc.dll
+F:\ETEC\GUI\GUI\bin\Debug\CircularProgressBar.dll
+F:\ETEC\GUI\GUI\bin\Debug\CommonWin32.dll
+F:\ETEC\GUI\GUI\bin\Debug\DAL.dll
+F:\ETEC\GUI\GUI\bin\Debug\MetroFramework.Design.dll
+F:\ETEC\GUI\GUI\bin\Debug\MetroFramework.dll
+F:\ETEC\GUI\GUI\bin\Debug\MetroFramework.Fonts.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\ETEC\GUI\GUI\bin\Debug\Modelos.dll
+F:\ETEC\GUI\GUI\bin\Debug\Newtonsoft.Json.dll
+F:\ETEC\GUI\GUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\ETEC\GUI\GUI\bin\Debug\System.Web.Helpers.dll
+F:\ETEC\GUI\GUI\bin\Debug\System.Web.Mvc.dll
+F:\ETEC\GUI\GUI\bin\Debug\System.Web.Razor.dll
+F:\ETEC\GUI\GUI\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\ETEC\GUI\GUI\bin\Debug\System.Web.WebPages.dll
+F:\ETEC\GUI\GUI\bin\Debug\System.Web.WebPages.Razor.dll
+F:\ETEC\GUI\GUI\bin\Debug\WinFormAnimation.dll
+F:\ETEC\GUI\GUI\bin\Debug\EnvDTE.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Design.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\ETEC\GUI\GUI\bin\Debug\stdole.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Threading.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Text.UI.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+F:\ETEC\GUI\GUI\bin\Debug\EnvDTE80.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.Build.Tasks.Core.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+F:\ETEC\GUI\GUI\bin\Debug\VSLangProj.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+F:\ETEC\GUI\GUI\bin\Debug\VSLangProj80.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Data.Framework.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Editor.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.MSXML.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.Build.Utilities.Core.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Text.Logic.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.Build.Framework.dll
+F:\ETEC\GUI\GUI\bin\Debug\VSLangProj2.dll
+F:\ETEC\GUI\GUI\bin\Debug\BLL.pdb
+F:\ETEC\GUI\GUI\bin\Debug\DAL.pdb
+F:\ETEC\GUI\GUI\bin\Debug\Modelos.pdb
+F:\ETEC\GUI\GUI\bin\Debug\Chart.Mvc.pdb
+F:\ETEC\GUI\GUI\bin\Debug\Chart.Mvc.xml
+F:\ETEC\GUI\GUI\bin\Debug\CommonWin32.pdb
+F:\ETEC\GUI\GUI\bin\Debug\CommonWin32.xml
+F:\ETEC\GUI\GUI\bin\Debug\Newtonsoft.Json.xml
+F:\ETEC\GUI\GUI\bin\Debug\System.Web.Helpers.xml
+F:\ETEC\GUI\GUI\bin\Debug\System.Web.Mvc.xml
+F:\ETEC\GUI\GUI\bin\Debug\System.Web.Razor.xml
+F:\ETEC\GUI\GUI\bin\Debug\System.Web.WebPages.xml
+F:\ETEC\GUI\GUI\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\ETEC\GUI\GUI\bin\Debug\System.Web.WebPages.Razor.xml
+F:\ETEC\GUI\GUI\bin\Debug\EnvDTE.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Design.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Threading.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Text.UI.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.xml
+F:\ETEC\GUI\GUI\bin\Debug\EnvDTE80.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Data.Services.xml
+F:\ETEC\GUI\GUI\bin\Debug\VSLangProj.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Data.Core.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.xml
+F:\ETEC\GUI\GUI\bin\Debug\VSLangProj80.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Data.Framework.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Editor.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Text.Logic.xml
+F:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.xml
+F:\ETEC\GUI\GUI\bin\Debug\VSLangProj2.xml
+F:\ETEC\GUI\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ETEC\GUI\GUI\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+F:\ETEC\GUI\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\ETEC\GUI\GUI\obj\Debug\GUI.csproj.GUI.exe.config
+F:\ETEC\GUI\GUI\obj\Debug\GUI.Anexis.frmAida.resources
+F:\ETEC\GUI\GUI\obj\Debug\GUI.Cliente.ClientesForms.resources
+F:\ETEC\GUI\GUI\obj\Debug\GUI.Cliente.DividaForm.resources
+F:\ETEC\GUI\GUI\obj\Debug\GUI.Configurações.frmConfiguracoes.resources
+F:\ETEC\GUI\GUI\obj\Debug\GUI.Fechamentos_Caixa.frmSemanal.resources
+F:\ETEC\GUI\GUI\obj\Debug\GUI.FormPrimario.resources
+F:\ETEC\GUI\GUI\obj\Debug\GUI.frmCaixa.resources
+F:\ETEC\GUI\GUI\obj\Debug\GUI.Gastos.frmGastos.resources
+F:\ETEC\GUI\GUI\obj\Debug\GUI.Login.frmLogin.resources
+F:\ETEC\GUI\GUI\obj\Debug\GUI.Produto.FormNovoEstoque.resources
+F:\ETEC\GUI\GUI\obj\Debug\GUI.Produto.FormProduto.resources
+F:\ETEC\GUI\GUI\obj\Debug\GUI.Produto.UCProduto.resources
+F:\ETEC\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\ETEC\GUI\GUI\obj\Debug\GUI.Relatorios.Fechamentos.frmRelatorioDiario.resources
+F:\ETEC\GUI\GUI\obj\Debug\GUI.UserControl1.resources
+F:\ETEC\GUI\GUI\obj\Debug\GUI.Venda.VendaForm.resources
+F:\ETEC\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\ETEC\GUI\GUI\obj\Debug\RdlCompile.cache
+F:\ETEC\GUI\GUI\obj\Debug\RdlCompile.compiled
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.exe.config
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.Anexis.frmAida.resources
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.Cliente.ClientesForms.resources
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.Cliente.DividaForm.resources
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.Configurações.frmConfiguracoes.resources
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.Fechamentos_Caixa.frmSemana.resources
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.Gerenciamento.frmGerenciamentoDiario.resources
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.FormPrimario.resources
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.frmCaixa.resources
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.Gastos.frmGastos.resources
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.Login.frmLogin.resources
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.Produto.FormNovoEstoque.resources
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.Produto.FormProduto.resources
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.Produto.UCProduto.resources
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.Relatorios.Fechamentos.frmRelatorioDiario.resources
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.UserControl1.resources
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.Venda.VendaForm.resources
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\RdlCompile.cache
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\RdlCompile.compiled
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\AltoControls.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\BLL.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Chart.Mvc.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\CircularProgressBar.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\CommonWin32.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\DAL.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\MetroFramework.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.Speech.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Modelos.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\System.Web.Helpers.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\System.Web.Mvc.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\System.Web.Razor.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\System.Web.WebPages.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\WinFormAnimation.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\EnvDTE.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\stdole.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\EnvDTE80.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\VSLangProj.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\VSLangProj80.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\VSLangProj2.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\BLL.pdb
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\DAL.pdb
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Modelos.pdb
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Chart.Mvc.pdb
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Chart.Mvc.xml
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\CommonWin32.pdb
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\CommonWin32.xml
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\System.Web.Helpers.xml
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\System.Web.Mvc.xml
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\System.Web.Razor.xml
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\System.Web.WebPages.xml
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.exe
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.pdb
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.Fechamentos_Caixa.frmMes.resources
+D:\ETEC\GUI\GUI\obj\Debug\GUI.Fechamentos_Caixa.frmMes.resources
+D:\ETEC\GUI\GUI\obj\Debug\GUI.Fechamentos_Caixa.frmSemana.resources
+D:\ETEC\GUI\GUI\obj\Debug\GUI.Gerenciamento.frmGerenciamentoDiario.resources
+C:\Users\Gabriel\Desktop\GUI\GUI\obj\Debug\GUI.Gerenciamento.frmGerencialmenteSemanal.resources
+E:\ETEC\GUI\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\ETEC\GUI\GUI\obj\Debug\GUI.csproj.GUI.exe.config
+E:\ETEC\GUI\GUI\obj\Debug\GUI.Anexis.frmAida.resources
+E:\ETEC\GUI\GUI\obj\Debug\GUI.Cliente.ClientesForms.resources
+E:\ETEC\GUI\GUI\obj\Debug\GUI.Cliente.DividaForm.resources
+E:\ETEC\GUI\GUI\obj\Debug\GUI.Configurações.frmConfiguracoes.resources
+E:\ETEC\GUI\GUI\obj\Debug\GUI.Fechamentos_Caixa.frmMes.resources
+E:\ETEC\GUI\GUI\obj\Debug\GUI.Fechamentos_Caixa.frmSemana.resources
+E:\ETEC\GUI\GUI\obj\Debug\GUI.Gerenciamento.frmGerencialmenteSemanal.resources
+E:\ETEC\GUI\GUI\obj\Debug\GUI.Gerenciamento.frmGerenciamentoDiario.resources
+E:\ETEC\GUI\GUI\obj\Debug\GUI.FormPrimario.resources
+E:\ETEC\GUI\GUI\obj\Debug\GUI.frmCaixa.resources
+E:\ETEC\GUI\GUI\obj\Debug\GUI.Gastos.frmGastos.resources
+E:\ETEC\GUI\GUI\obj\Debug\GUI.Login.frmLogin.resources
+E:\ETEC\GUI\GUI\obj\Debug\GUI.Produto.FormNovoEstoque.resources
+E:\ETEC\GUI\GUI\obj\Debug\GUI.Produto.FormProduto.resources
+E:\ETEC\GUI\GUI\obj\Debug\GUI.Produto.UCProduto.resources
+E:\ETEC\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\ETEC\GUI\GUI\obj\Debug\GUI.Relatorios.Fechamentos.frmRelatorioDiario.resources
+E:\ETEC\GUI\GUI\obj\Debug\GUI.UserControl1.resources
+E:\ETEC\GUI\GUI\obj\Debug\GUI.Venda.VendaForm.resources
+E:\ETEC\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\ETEC\GUI\GUI\obj\Debug\RdlCompile.cache
+E:\ETEC\GUI\GUI\obj\Debug\RdlCompile.compiled
+E:\ETEC\GUI\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\ETEC\GUI\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\ETEC\GUI\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\ETEC\GUI\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\ETEC\GUI\GUI\bin\Debug\GUI.exe.config
+E:\ETEC\GUI\GUI\bin\Debug\GUI.exe
+E:\ETEC\GUI\GUI\bin\Debug\GUI.pdb
+E:\ETEC\GUI\GUI\bin\Debug\AltoControls.dll
+E:\ETEC\GUI\GUI\bin\Debug\BLL.dll
+E:\ETEC\GUI\GUI\bin\Debug\Chart.Mvc.dll
+E:\ETEC\GUI\GUI\bin\Debug\CircularProgressBar.dll
+E:\ETEC\GUI\GUI\bin\Debug\CommonWin32.dll
+E:\ETEC\GUI\GUI\bin\Debug\DAL.dll
+E:\ETEC\GUI\GUI\bin\Debug\MetroFramework.Design.dll
+E:\ETEC\GUI\GUI\bin\Debug\MetroFramework.dll
+E:\ETEC\GUI\GUI\bin\Debug\MetroFramework.Fonts.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\ETEC\GUI\GUI\bin\Debug\Modelos.dll
+E:\ETEC\GUI\GUI\bin\Debug\Newtonsoft.Json.dll
+E:\ETEC\GUI\GUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ETEC\GUI\GUI\bin\Debug\System.Web.Helpers.dll
+E:\ETEC\GUI\GUI\bin\Debug\System.Web.Mvc.dll
+E:\ETEC\GUI\GUI\bin\Debug\System.Web.Razor.dll
+E:\ETEC\GUI\GUI\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\ETEC\GUI\GUI\bin\Debug\System.Web.WebPages.dll
+E:\ETEC\GUI\GUI\bin\Debug\System.Web.WebPages.Razor.dll
+E:\ETEC\GUI\GUI\bin\Debug\WinFormAnimation.dll
+E:\ETEC\GUI\GUI\bin\Debug\EnvDTE.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Design.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\ETEC\GUI\GUI\bin\Debug\stdole.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Threading.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Text.UI.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\ETEC\GUI\GUI\bin\Debug\EnvDTE80.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\ETEC\GUI\GUI\bin\Debug\VSLangProj.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\ETEC\GUI\GUI\bin\Debug\VSLangProj80.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Data.Framework.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Editor.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.MSXML.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Text.Logic.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.Build.Framework.dll
+E:\ETEC\GUI\GUI\bin\Debug\VSLangProj2.dll
+E:\ETEC\GUI\GUI\bin\Debug\BLL.pdb
+E:\ETEC\GUI\GUI\bin\Debug\DAL.pdb
+E:\ETEC\GUI\GUI\bin\Debug\Modelos.pdb
+E:\ETEC\GUI\GUI\bin\Debug\Chart.Mvc.pdb
+E:\ETEC\GUI\GUI\bin\Debug\Chart.Mvc.xml
+E:\ETEC\GUI\GUI\bin\Debug\CommonWin32.pdb
+E:\ETEC\GUI\GUI\bin\Debug\CommonWin32.xml
+E:\ETEC\GUI\GUI\bin\Debug\Newtonsoft.Json.xml
+E:\ETEC\GUI\GUI\bin\Debug\System.Web.Helpers.xml
+E:\ETEC\GUI\GUI\bin\Debug\System.Web.Mvc.xml
+E:\ETEC\GUI\GUI\bin\Debug\System.Web.Razor.xml
+E:\ETEC\GUI\GUI\bin\Debug\System.Web.WebPages.xml
+E:\ETEC\GUI\GUI\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\ETEC\GUI\GUI\bin\Debug\System.Web.WebPages.Razor.xml
+E:\ETEC\GUI\GUI\bin\Debug\EnvDTE.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Design.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Threading.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Text.UI.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.xml
+E:\ETEC\GUI\GUI\bin\Debug\EnvDTE80.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Data.Services.xml
+E:\ETEC\GUI\GUI\bin\Debug\VSLangProj.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Data.Core.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.xml
+E:\ETEC\GUI\GUI\bin\Debug\VSLangProj80.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Data.Framework.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Editor.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Text.Logic.xml
+E:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.xml
+E:\ETEC\GUI\GUI\bin\Debug\VSLangProj2.xml
+E:\ETEC\GUI\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ETEC\GUI\GUI\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+E:\ETEC\GUI\GUI\obj\Debug\GUI.exe
+E:\ETEC\GUI\GUI\obj\Debug\GUI.pdb
+D:\ETEC\GUI\GUI\obj\Debug\GUI.Gerenciamento.frmGerencialmenteSemanal.resources
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Design.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Threading.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Text.UI.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Data.Framework.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Editor.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Text.Logic.dll
+D:\ETEC\GUI\GUI\bin\Debug\EnvDTE.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Design.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Threading.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Text.UI.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.xml
+D:\ETEC\GUI\GUI\bin\Debug\EnvDTE80.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Data.Services.xml
+D:\ETEC\GUI\GUI\bin\Debug\VSLangProj.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Data.Core.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.xml
+D:\ETEC\GUI\GUI\bin\Debug\VSLangProj80.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Data.Framework.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Editor.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Text.Logic.xml
+D:\ETEC\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.xml
+D:\ETEC\GUI\GUI\bin\Debug\VSLangProj2.xml
+D:\ETEC\GUI\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\ETEC\GUI\GUI\obj\Debug\GUI.csproj.GUI.exe.config
+D:\ETEC\GUI\GUI\obj\Debug\GUI.Gerenciamento.frmGerenciamentoMensal.resources
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\GUI.exe.config
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\GUI.exe
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\GUI.pdb
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\AltoControls.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\BLL.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Chart.Mvc.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\CircularProgressBar.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\CommonWin32.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\DAL.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\MetroFramework.Design.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\MetroFramework.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\MetroFramework.Fonts.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.Speech.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Modelos.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\System.Web.Helpers.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\System.Web.Mvc.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\System.Web.Razor.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\System.Web.WebPages.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\System.Web.WebPages.Razor.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\WinFormAnimation.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\EnvDTE.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\stdole.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\EnvDTE80.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\VSLangProj.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\VSLangProj80.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.MSXML.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.Build.Framework.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\VSLangProj2.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\BLL.pdb
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\DAL.pdb
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Modelos.pdb
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Chart.Mvc.pdb
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Chart.Mvc.xml
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\CommonWin32.pdb
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\CommonWin32.xml
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\System.Web.Helpers.xml
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\System.Web.Mvc.xml
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\System.Web.Razor.xml
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\System.Web.WebPages.xml
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\System.Web.WebPages.Razor.xml
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.exe.config
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.Anexis.frmAida.resources
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.Cliente.ClientesForms.resources
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.Cliente.DividaForm.resources
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.Configurações.frmConfiguracoes.resources
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.Fechamentos_Caixa.frmMes.resources
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.Fechamentos_Caixa.frmSemana.resources
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.Gastos.frmGastos.resources
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.Gerenciamento.frmGerencialmenteSemanal.resources
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.Gerenciamento.frmGerenciamentoDiario.resources
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.Gerenciamento.frmGerenciamentoMensal.resources
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.Logs.frmLogsExclusoes.resources
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.Logs.frmPagamentos.resources
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.FormPrimario.resources
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.frmCaixa.resources
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.Login.frmLogin.resources
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.Produto.FormNovoEstoque.resources
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.Produto.FormProduto.resources
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.Produto.UCProduto.resources
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.Relatorios.Fechamentos.frmRelatorioDiario.resources
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.Relatorios.Fechamentos.Mensal.frmRelMensal.resources
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.Relatorios.Fechamentos.Semanal.frmRelSemanal.resources
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.UserControl1.resources
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.Venda.VendaForm.resources
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\RdlCompile.cache
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\RdlCompile.compiled
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.exe
+D:\ETEC\GUI_Funcionando\GUI\obj\Debug\GUI.pdb
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\GUI.exe.config
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\GUI.exe
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\GUI.pdb
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\AltoControls.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\BLL.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Chart.Mvc.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\CircularProgressBar.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\CommonWin32.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\DAL.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\MetroFramework.Design.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\MetroFramework.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\MetroFramework.Fonts.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Modelos.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\System.Web.Helpers.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\System.Web.Mvc.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\System.Web.Razor.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\System.Web.WebPages.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\System.Web.WebPages.Razor.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\WinFormAnimation.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\EnvDTE.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Design.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\stdole.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Threading.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Text.UI.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\EnvDTE80.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\VSLangProj.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\VSLangProj80.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Data.Framework.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Editor.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.MSXML.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Text.Logic.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.Build.Framework.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\VSLangProj2.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\BLL.pdb
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\DAL.pdb
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Modelos.pdb
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Chart.Mvc.pdb
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Chart.Mvc.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\CommonWin32.pdb
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\CommonWin32.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\System.Web.Helpers.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\System.Web.Mvc.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\System.Web.Razor.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\System.Web.WebPages.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\System.Web.WebPages.Razor.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\EnvDTE.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Design.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Threading.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Text.UI.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\EnvDTE80.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Data.Services.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\VSLangProj.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Data.Core.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\VSLangProj80.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Data.Framework.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Editor.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Text.Logic.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\VSLangProj2.xml
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.csproj.GUI.exe.config
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.Anexis.frmAida.resources
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.Cliente.ClientesForms.resources
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.Cliente.DividaForm.resources
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.Configurações.frmConfiguracoes.resources
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.Fechamentos_Caixa.frmMes.resources
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.Fechamentos_Caixa.frmSemana.resources
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.Gastos.frmGastos.resources
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.Gerenciamento.frmGerencialmenteSemanal.resources
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.Gerenciamento.frmGerenciamentoDiario.resources
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.Gerenciamento.frmGerenciamentoMensal.resources
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.Logs.frmLogsExclusoes.resources
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.Logs.frmPagamentos.resources
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.FormPrimario.resources
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.frmCaixa.resources
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.Login.frmLogin.resources
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.Produto.FormNovoEstoque.resources
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.Produto.FormProduto.resources
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.Produto.UCProduto.resources
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.Relatorios.Fechamentos.frmRelatorioDiario.resources
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.Relatorios.Fechamentos.Mensal.frmRelMensal.resources
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.Relatorios.Fechamentos.Semanal.frmRelSemanal.resources
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.UserControl1.resources
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.Venda.VendaForm.resources
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\RdlCompile.cache
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\RdlCompile.compiled
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.exe
+D:\ETEC\TCC\GUI_Funcionando\GUI\obj\Debug\GUI.pdb
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\GUI.exe.config
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\GUI.exe
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\GUI.pdb
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\AltoControls.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\BLL.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Chart.Mvc.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\CircularProgressBar.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\CommonWin32.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\DAL.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\MetroFramework.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.Speech.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Modelos.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\System.Web.Helpers.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\System.Web.Mvc.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\System.Web.Razor.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\System.Web.WebPages.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\WinFormAnimation.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\EnvDTE.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\stdole.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\EnvDTE80.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\VSLangProj.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\VSLangProj80.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\VSLangProj2.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\BLL.pdb
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\DAL.pdb
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Modelos.pdb
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Chart.Mvc.pdb
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Chart.Mvc.xml
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\CommonWin32.pdb
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\CommonWin32.xml
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\System.Web.Helpers.xml
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\System.Web.Mvc.xml
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\System.Web.Razor.xml
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\System.Web.WebPages.xml
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.exe.config
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.Anexis.frmAida.resources
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.Cliente.ClientesForms.resources
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.Cliente.DividaForm.resources
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.Configurações.frmConfiguracoes.resources
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.Fechamentos_Caixa.frmMes.resources
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.Fechamentos_Caixa.frmSemana.resources
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.Gastos.frmGastos.resources
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.Gerenciamento.frmGerencialmenteSemanal.resources
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.Gerenciamento.frmGerenciamentoDiario.resources
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.Gerenciamento.frmGerenciamentoMensal.resources
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.Logs.frmLogsExclusoes.resources
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.Logs.frmPagamentos.resources
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.FormPrimario.resources
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.frmCaixa.resources
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.Login.frmLogin.resources
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.Produto.FormNovoEstoque.resources
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.Produto.FormProduto.resources
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.Produto.UCProduto.resources
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.Relatorios.Fechamentos.frmRelatorioDiario.resources
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.Relatorios.Fechamentos.Mensal.frmRelMensal.resources
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.Relatorios.Fechamentos.Semanal.frmRelSemanal.resources
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.UserControl1.resources
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.Venda.VendaForm.resources
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\RdlCompile.cache
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\RdlCompile.compiled
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.exe
+C:\Users\Gabriel\Desktop\GUI_Funcionando\GUI\obj\Debug\GUI.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\obj\Debug\GUI.exe.config
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\obj\Debug\GUI.Login.frmLogin.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\obj\Debug\GUI.exe
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\obj\Debug\GUI.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\GUI.exe.config
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\GUI.exe
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\GUI.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\AltoControls.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\BLL.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Chart.Mvc.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\CircularProgressBar.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\CommonWin32.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\DAL.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\MetroFramework.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.Speech.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Modelos.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\System.Web.Helpers.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\System.Web.Mvc.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\System.Web.Razor.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\System.Web.WebPages.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\WinFormAnimation.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\EnvDTE.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\stdole.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\EnvDTE80.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\VSLangProj.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\VSLangProj80.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\VSLangProj2.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\BLL.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\DAL.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Modelos.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Chart.Mvc.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Chart.Mvc.xml
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\CommonWin32.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\CommonWin32.xml
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\System.Web.Helpers.xml
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\System.Web.Mvc.xml
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\System.Web.Razor.xml
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\System.Web.WebPages.xml
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\GUI.exe.config
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\GUI.exe
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\GUI.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\AltoControls.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\BLL.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\CommonWin32.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\DAL.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\EntityFramework.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\MetroFramework.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.Speech.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Modelos.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\EnvDTE.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\stdole.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\EnvDTE80.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\VSLangProj.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\VSLangProj80.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\VSLangProj2.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\BLL.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\DAL.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Modelos.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\CommonWin32.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\CommonWin32.xml
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\EntityFramework.xml
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.exe.config
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Alunos.frmAlunos.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.ArquivosMortos.Alunos.frmAlunosMorto.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.CalendarioEscolar.frmCalendarioEscolar.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Carteirinha.frmCarteirinha.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Emprestimo.frmEmprestimos.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.FichaCatalografica.frmFichaCatalograficas.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.LeitorEspecial.frmLeitorEspecial.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Livros.frmLivros.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Login.frmLogin.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Menu_Iniciar.frmMenu.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Multas.Efetuadas.frmPagas.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Multas.frmMultas.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.frmRelatorios.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\RdlCompile.cache
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\RdlCompile.compiled
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.exe
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.ConfigutacoesBLL.frmConfiguracoes.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.Leitores.Alunos.frmVisRelAlunos.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.Leitores.Funcionários.frmVisRelFuncionarios.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.Livros.frmVisRelLivros.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.Emprestimos.Emprestimos_Alunos.frmVisRelEmprestimosAluno.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.ArquivoMorto.frmVisRelAlunosMorto.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.ArquivoMorto.Leitores.Funcionarios.frmVisRelFuncionariosMorto.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.ArquivosMortos.Emprestimos.frmEmprestimosAlunoMorto.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.ArquivoMorto.Emprestimos.Alunos.frmRelVisEmprestimosAlunoMorto.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.ArquivoMorto.Emprestimos.Funcionarios.frmVisRelEmprestimosFuncionarios.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.ArquivoMorto.Emprestimos.Funcionarios.frmVisRelEmprestimosFuncionarioMorto.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.Multas.Pendentes.frmVisRelMultas.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.Multas.Pendentes.frmVisRelMultasPendentes.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.FichaCatalograica.frmVisRelFichas.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.LeitoresEspeciais.frmVisRelLeitoresEspeciais.resources
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\GUI.exe.config
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\GUI.exe
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\GUI.pdb
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\AltoControls.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\BLL.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\CommonWin32.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\DAL.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\EntityFramework.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\MetroFramework.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Modelos.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\EnvDTE.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Design.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\stdole.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\BLL.pdb
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\DAL.pdb
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Modelos.pdb
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\CommonWin32.pdb
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\CommonWin32.xml
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\EntityFramework.xml
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Design.xml
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Alunos.frmAlunos.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.ArquivosMortos.Alunos.frmAlunosMorto.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.ArquivosMortos.Emprestimos.frmEmprestimosAlunoMorto.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.ArquivoMorto.Emprestimos.Alunos.frmRelVisEmprestimosAlunoMorto.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.CalendarioEscolar.frmCalendarioEscolar.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Carteirinha.frmCarteirinha.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.ConfigutacoesBLL.frmConfiguracoes.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Emprestimo.frmEmprestimos.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.FichaCatalografica.frmFichaCatalograficas.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.LeitorEspecial.frmLeitorEspecial.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Livros.frmLivros.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Login.frmLogin.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Menu_Iniciar.frmMenu.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Multas.Efetuadas.frmPagas.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Multas.frmMultas.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.ArquivoMorto.Emprestimos.Funcionarios.frmVisRelEmprestimosFuncionarioMorto.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.ArquivoMorto.Emprestimos.Funcionarios.frmVisRelEmprestimosFuncionarios.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.ArquivoMorto.frmVisRelAlunosMorto.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.ArquivoMorto.Leitores.Funcionarios.frmVisRelFuncionariosMorto.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.Emprestimos.Emprestimos_Alunos.frmVisRelEmprestimosAluno.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.FichaCatalograica.frmVisRelFichas.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.frmRelatorios.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.LeitoresEspeciais.frmVisRelLeitoresEspeciais.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.Leitores.Alunos.frmVisRelAlunos.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.Leitores.Funcionários.frmVisRelFuncionarios.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.Livros.frmVisRelLivros.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.Multas.Pendentes.frmVisRelMultas.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.Relatorios.Multas.Pendentes.frmVisRelMultasPendentes.resources
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.exe
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\GUI.pdb
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\RdlCompile.cache
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\GUI\obj\Debug\RdlCompile.compiled

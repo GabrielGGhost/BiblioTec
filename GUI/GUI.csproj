@@ -1,0 +1,472 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7AC11665-0257-48D2-AB93-FEA3A0BDEFF1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AltoControls, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\AltoControls.1.0.1\lib\AltoControls.dll</HintPath>
+    </Reference>
+    <Reference Include="CommonWin32, Version=2.0.0.0, Culture=neutral, PublicKeyToken=a0a4edcfe233918d, processorArchitecture=MSIL">
+      <HintPath>..\packages\CommonWin32.2.1.0.3\lib\net35-Client\CommonWin32.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Speech, Version=11.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files (x86)\Microsoft SDKs\Speech\v11.0\Assembly\Microsoft.Speech.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alunos\frmAlunos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alunos\frmAlunos.Designer.cs">
+      <DependentUpon>frmAlunos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ArquivosMortos\Alunos\frmAlunosMorto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ArquivosMortos\Alunos\frmAlunosMorto.Designer.cs">
+      <DependentUpon>frmAlunosMorto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ArquivosMortos\Emprestimos\frmEmprestimosAlunoMorto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ArquivosMortos\Emprestimos\frmEmprestimosAlunoMorto.Designer.cs">
+      <DependentUpon>frmEmprestimosAlunoMorto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Biblioteca.cs">
+      <DependentUpon>Biblioteca.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Biblioteca.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Biblioteca.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CalendarioEscolar\frmCalendarioEscolar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalendarioEscolar\frmCalendarioEscolar.Designer.cs">
+      <DependentUpon>frmCalendarioEscolar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Carteirinha\frmCarteirinha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Carteirinha\frmCarteirinha.Designer.cs">
+      <DependentUpon>frmCarteirinha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configutacoes\frmConfiguracoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configutacoes\frmConfiguracoes.Designer.cs">
+      <DependentUpon>frmConfiguracoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Emprestimo\frmEmprestimos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Emprestimo\frmEmprestimos.Designer.cs">
+      <DependentUpon>frmEmprestimos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FichaCatalografica\frmFichaCatalograficas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FichaCatalografica\frmFichaCatalograficas.Designer.cs">
+      <DependentUpon>frmFichaCatalograficas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LeitorEspecial\frmLeitorEspecial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LeitorEspecial\frmLeitorEspecial.Designer.cs">
+      <DependentUpon>frmLeitorEspecial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Livros\frmLivros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Livros\frmLivros.Designer.cs">
+      <DependentUpon>frmLivros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Iniciar\frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Iniciar\frmMenu.Designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Multas\Efetuadas\frmPagas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Multas\Efetuadas\frmPagas.Designer.cs">
+      <DependentUpon>frmPagas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Multas\Pendentes\frmMultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Multas\Pendentes\frmMultas.Designer.cs">
+      <DependentUpon>frmMultas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\ArquivoMorto\Emprestimos\Alunos\frmRelVisEmprestimosAlunoMorto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\ArquivoMorto\Emprestimos\Alunos\frmRelVisEmprestimosAlunoMorto.Designer.cs">
+      <DependentUpon>frmRelVisEmprestimosAlunoMorto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\ArquivoMorto\Emprestimos\Funcionarios\frmVisRelEmprestimosFuncionarioMorto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\ArquivoMorto\Emprestimos\Funcionarios\frmVisRelEmprestimosFuncionarioMorto.Designer.cs">
+      <DependentUpon>frmVisRelEmprestimosFuncionarioMorto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\Emprestimos\Emprestimos_Funcionario\frmVisRelEmprestimosFuncionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\Emprestimos\Emprestimos_Funcionario\frmVisRelEmprestimosFuncionarios.Designer.cs">
+      <DependentUpon>frmVisRelEmprestimosFuncionarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\ArquivoMorto\Leitores\Alunos\frmVisRelAlunosMorto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\ArquivoMorto\Leitores\Alunos\frmVisRelAlunosMorto.Designer.cs">
+      <DependentUpon>frmVisRelAlunosMorto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\ArquivoMorto\Leitores\Funcionarios\frmVisRelFuncionariosMorto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\ArquivoMorto\Leitores\Funcionarios\frmVisRelFuncionariosMorto.Designer.cs">
+      <DependentUpon>frmVisRelFuncionariosMorto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\Emprestimos\Emprestimos_Alunos\frmVisRelEmprestimosAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\Emprestimos\Emprestimos_Alunos\frmVisRelEmprestimosAluno.Designer.cs">
+      <DependentUpon>frmVisRelEmprestimosAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FichaCatalograica\frmVisRelFichas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FichaCatalograica\frmVisRelFichas.Designer.cs">
+      <DependentUpon>frmVisRelFichas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\frmRelatorios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\frmRelatorios.Designer.cs">
+      <DependentUpon>frmRelatorios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\LeitoresEspeciais\frmVisRelLeitoresEspeciais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\LeitoresEspeciais\frmVisRelLeitoresEspeciais.Designer.cs">
+      <DependentUpon>frmVisRelLeitoresEspeciais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\Leitores\Alunos\frmVisRelAlunos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\Leitores\Alunos\frmVisRelAlunos.Designer.cs">
+      <DependentUpon>frmVisRelAlunos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\Leitores\Funcionários\frmVisRelFuncionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\Leitores\Funcionários\frmVisRelFuncionarios.Designer.cs">
+      <DependentUpon>frmVisRelFuncionarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\Livros\frmVisRelLivros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\Livros\frmVisRelLivros.Designer.cs">
+      <DependentUpon>frmVisRelLivros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\Multas\Pagas\frmVisRelMultasPagas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\Multas\Pagas\frmVisRelMultasPagas.Designer.cs">
+      <DependentUpon>frmVisRelMultasPagas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\Multas\Pendentes\frmVisRelMultasPendentes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\Multas\Pendentes\frmVisRelMultasPendentes.Designer.cs">
+      <DependentUpon>frmVisRelMultasPendentes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <EmbeddedResource Include="Alunos\frmAlunos.resx">
+      <DependentUpon>frmAlunos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ArquivosMortos\Alunos\frmAlunosMorto.resx">
+      <DependentUpon>frmAlunosMorto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ArquivosMortos\Emprestimos\frmEmprestimosAlunoMorto.resx">
+      <DependentUpon>frmEmprestimosAlunoMorto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\ArquivoMorto\Emprestimos\Alunos\frmRelVisEmprestimosAlunoMorto.resx">
+      <DependentUpon>frmRelVisEmprestimosAlunoMorto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\ArquivoMorto\Emprestimos\Alunos\RelEmprestimosAlunoMorto.rdlc" />
+    <EmbeddedResource Include="CalendarioEscolar\frmCalendarioEscolar.resx">
+      <DependentUpon>frmCalendarioEscolar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Carteirinha\frmCarteirinha.resx">
+      <DependentUpon>frmCarteirinha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configutacoes\frmConfiguracoes.resx">
+      <DependentUpon>frmConfiguracoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Emprestimo\frmEmprestimos.resx">
+      <DependentUpon>frmEmprestimos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FichaCatalografica\frmFichaCatalograficas.resx">
+      <DependentUpon>frmFichaCatalograficas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LeitorEspecial\frmLeitorEspecial.resx">
+      <DependentUpon>frmLeitorEspecial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Livros\frmLivros.resx">
+      <DependentUpon>frmLivros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Iniciar\frmMenu.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Multas\Efetuadas\frmPagas.resx">
+      <DependentUpon>frmPagas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Multas\Pendentes\frmMultas.resx">
+      <DependentUpon>frmMultas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\ArquivoMorto\Emprestimos\Funcionarios\frmVisRelEmprestimosFuncionarioMorto.resx">
+      <DependentUpon>frmVisRelEmprestimosFuncionarioMorto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\ArquivoMorto\Emprestimos\Funcionarios\RelEmprestimosFuncionarioMorto.rdlc" />
+    <EmbeddedResource Include="Relatorios\Emprestimos\Emprestimos_Funcionario\frmVisRelEmprestimosFuncionarios.resx">
+      <DependentUpon>frmVisRelEmprestimosFuncionarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\Emprestimos\Emprestimos_Funcionario\RelEmprestimosFuncionarios.rdlc" />
+    <EmbeddedResource Include="Relatorios\ArquivoMorto\Leitores\Alunos\frmVisRelAlunosMorto.resx">
+      <DependentUpon>frmVisRelAlunosMorto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\ArquivoMorto\Leitores\Alunos\RelAlunosMorto.rdlc" />
+    <EmbeddedResource Include="Relatorios\ArquivoMorto\Leitores\Funcionarios\frmVisRelFuncionariosMorto.resx">
+      <DependentUpon>frmVisRelFuncionariosMorto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\ArquivoMorto\Leitores\Funcionarios\RelFuncionariosMorto.rdlc" />
+    <EmbeddedResource Include="Relatorios\Emprestimos\Emprestimos_Alunos\frmVisRelEmprestimosAluno.resx">
+      <DependentUpon>frmVisRelEmprestimosAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\Emprestimos\Emprestimos_Alunos\RelEmprestimoAluno.rdlc" />
+    <EmbeddedResource Include="Relatorios\FichaCatalograica\frmVisRelFichas.resx">
+      <DependentUpon>frmVisRelFichas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FichaCatalograica\RelFichas.rdlc" />
+    <EmbeddedResource Include="Relatorios\frmRelatorios.resx">
+      <DependentUpon>frmRelatorios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\LeitoresEspeciais\frmVisRelLeitoresEspeciais.resx">
+      <DependentUpon>frmVisRelLeitoresEspeciais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\LeitoresEspeciais\RelLeitoresEspeciais.rdlc" />
+    <EmbeddedResource Include="Relatorios\Leitores\Alunos\frmVisRelAlunos.resx">
+      <DependentUpon>frmVisRelAlunos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\Leitores\Alunos\RelAlunos.rdlc" />
+    <EmbeddedResource Include="Relatorios\Leitores\Funcionários\frmVisRelFuncionarios.resx">
+      <DependentUpon>frmVisRelFuncionarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\Leitores\Funcionários\RelFuncionários.rdlc" />
+    <EmbeddedResource Include="Relatorios\Livros\frmVisRelLivros.resx">
+      <DependentUpon>frmVisRelLivros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\Livros\RelLivros.rdlc" />
+    <EmbeddedResource Include="Relatorios\Multas\Pagas\frmVisRelMultasPagas.resx">
+      <DependentUpon>frmVisRelMultasPagas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\Multas\Pagas\RelMultas.rdlc" />
+    <EmbeddedResource Include="Relatorios\Multas\Pendentes\frmVisRelMultasPendentes.resx">
+      <DependentUpon>frmVisRelMultasPendentes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\Multas\Pendentes\RelMultasPendentes.rdlc" />
+    <None Include="Biblioteca.xsc">
+      <DependentUpon>Biblioteca.xsd</DependentUpon>
+    </None>
+    <None Include="Biblioteca.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Biblioteca.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Biblioteca.xss">
+      <DependentUpon>Biblioteca.xsd</DependentUpon>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{b930a229-0115-4f0c-84de-7efb53f54346}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{7399987b-1333-4e79-8b80-baa1d416a1b8}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Modelos\Modelos.csproj">
+      <Project>{f550fcad-07e4-49fc-9f5b-21bf602461a1}</Project>
+      <Name>Modelos</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\bookshelf_icon-icons.com_54414.ico" />
+    <Content Include="Resources\cadeadoVermelho.png" />
+    <Content Include="Resources\cadeadoVerde.png" />
+    <None Include="Resources\icons8-particular-2-64 %281%29.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

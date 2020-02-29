@@ -1,0 +1,326 @@
+D:\TCC\GUI\DAL\bin\Debug\DAL.dll
+D:\TCC\GUI\DAL\bin\Debug\DAL.pdb
+D:\TCC\GUI\DAL\bin\Debug\Modelos.dll
+D:\TCC\GUI\DAL\bin\Debug\Modelos.pdb
+D:\TCC\GUI\DAL\obj\Debug\DAL.dll
+D:\TCC\GUI\DAL\obj\Debug\DAL.pdb
+D:\TCC\GUI\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\TCC\GUI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\TCC\GUI\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\TCC\GUI\DAL\bin\Debug\WhatsAppApi.dll
+I:\TCC\GUI\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+I:\TCC\GUI\DAL\obj\Debug\DAL.dll
+I:\TCC\GUI\DAL\obj\Debug\DAL.pdb
+D:\GUI\DAL\bin\Debug\DAL.dll
+D:\GUI\DAL\bin\Debug\DAL.pdb
+D:\GUI\DAL\bin\Debug\CircularProgressBar.dll
+D:\GUI\DAL\bin\Debug\CommonWin32.dll
+D:\GUI\DAL\bin\Debug\MetroFramework.Design.dll
+D:\GUI\DAL\bin\Debug\MetroFramework.dll
+D:\GUI\DAL\bin\Debug\MetroFramework.Fonts.dll
+D:\GUI\DAL\bin\Debug\Modelos.dll
+D:\GUI\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\GUI\DAL\bin\Debug\WhatsAppApi.dll
+D:\GUI\DAL\bin\Debug\WinFormAnimation.dll
+D:\GUI\DAL\bin\Debug\ZedGraph.dll
+D:\GUI\DAL\bin\Debug\Modelos.pdb
+D:\GUI\DAL\bin\Debug\CommonWin32.pdb
+D:\GUI\DAL\bin\Debug\CommonWin32.xml
+D:\GUI\DAL\bin\Debug\ZedGraph.xml
+D:\GUI\DAL\bin\Debug\de\ZedGraph.resources.dll
+D:\GUI\DAL\bin\Debug\es\ZedGraph.resources.dll
+D:\GUI\DAL\bin\Debug\fr\ZedGraph.resources.dll
+D:\GUI\DAL\bin\Debug\hu\ZedGraph.resources.dll
+D:\GUI\DAL\bin\Debug\it\ZedGraph.resources.dll
+D:\GUI\DAL\bin\Debug\ja\ZedGraph.resources.dll
+D:\GUI\DAL\bin\Debug\pt\ZedGraph.resources.dll
+D:\GUI\DAL\bin\Debug\ru\ZedGraph.resources.dll
+D:\GUI\DAL\bin\Debug\sk\ZedGraph.resources.dll
+D:\GUI\DAL\bin\Debug\sv\ZedGraph.resources.dll
+D:\GUI\DAL\bin\Debug\tr\ZedGraph.resources.dll
+D:\GUI\DAL\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\GUI\DAL\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\GUI\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\GUI\DAL\obj\Debug\DAL.dll
+D:\GUI\DAL\obj\Debug\DAL.pdb
+F:\GUI\DAL\bin\Debug\DAL.dll
+F:\GUI\DAL\bin\Debug\DAL.pdb
+F:\GUI\DAL\bin\Debug\CircularProgressBar.dll
+F:\GUI\DAL\bin\Debug\CommonWin32.dll
+F:\GUI\DAL\bin\Debug\MetroFramework.Design.dll
+F:\GUI\DAL\bin\Debug\MetroFramework.dll
+F:\GUI\DAL\bin\Debug\MetroFramework.Fonts.dll
+F:\GUI\DAL\bin\Debug\Modelos.dll
+F:\GUI\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\GUI\DAL\bin\Debug\WhatsAppApi.dll
+F:\GUI\DAL\bin\Debug\WinFormAnimation.dll
+F:\GUI\DAL\bin\Debug\ZedGraph.dll
+F:\GUI\DAL\bin\Debug\Modelos.pdb
+F:\GUI\DAL\bin\Debug\CommonWin32.pdb
+F:\GUI\DAL\bin\Debug\CommonWin32.xml
+F:\GUI\DAL\bin\Debug\ZedGraph.xml
+F:\GUI\DAL\bin\Debug\de\ZedGraph.resources.dll
+F:\GUI\DAL\bin\Debug\es\ZedGraph.resources.dll
+F:\GUI\DAL\bin\Debug\fr\ZedGraph.resources.dll
+F:\GUI\DAL\bin\Debug\hu\ZedGraph.resources.dll
+F:\GUI\DAL\bin\Debug\it\ZedGraph.resources.dll
+F:\GUI\DAL\bin\Debug\ja\ZedGraph.resources.dll
+F:\GUI\DAL\bin\Debug\pt\ZedGraph.resources.dll
+F:\GUI\DAL\bin\Debug\ru\ZedGraph.resources.dll
+F:\GUI\DAL\bin\Debug\sk\ZedGraph.resources.dll
+F:\GUI\DAL\bin\Debug\sv\ZedGraph.resources.dll
+F:\GUI\DAL\bin\Debug\tr\ZedGraph.resources.dll
+F:\GUI\DAL\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\GUI\DAL\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\GUI\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\GUI\DAL\obj\Debug\DAL.dll
+F:\GUI\DAL\obj\Debug\DAL.pdb
+E:\Curso_Inglês\GUI\DAL\bin\Debug\DAL.dll
+E:\Curso_Inglês\GUI\DAL\bin\Debug\DAL.pdb
+E:\Curso_Inglês\GUI\DAL\bin\Debug\CircularProgressBar.dll
+E:\Curso_Inglês\GUI\DAL\bin\Debug\CommonWin32.dll
+E:\Curso_Inglês\GUI\DAL\bin\Debug\MetroFramework.Design.dll
+E:\Curso_Inglês\GUI\DAL\bin\Debug\MetroFramework.dll
+E:\Curso_Inglês\GUI\DAL\bin\Debug\MetroFramework.Fonts.dll
+E:\Curso_Inglês\GUI\DAL\bin\Debug\Modelos.dll
+E:\Curso_Inglês\GUI\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Curso_Inglês\GUI\DAL\bin\Debug\WhatsAppApi.dll
+E:\Curso_Inglês\GUI\DAL\bin\Debug\WinFormAnimation.dll
+E:\Curso_Inglês\GUI\DAL\bin\Debug\ZedGraph.dll
+E:\Curso_Inglês\GUI\DAL\bin\Debug\Modelos.pdb
+E:\Curso_Inglês\GUI\DAL\bin\Debug\CommonWin32.pdb
+E:\Curso_Inglês\GUI\DAL\bin\Debug\CommonWin32.xml
+E:\Curso_Inglês\GUI\DAL\bin\Debug\ZedGraph.xml
+E:\Curso_Inglês\GUI\DAL\bin\Debug\de\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\DAL\bin\Debug\es\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\DAL\bin\Debug\fr\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\DAL\bin\Debug\hu\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\DAL\bin\Debug\it\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\DAL\bin\Debug\ja\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\DAL\bin\Debug\pt\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\DAL\bin\Debug\ru\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\DAL\bin\Debug\sk\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\DAL\bin\Debug\sv\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\DAL\bin\Debug\tr\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\DAL\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\DAL\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Curso_Inglês\GUI\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Curso_Inglês\GUI\DAL\obj\Debug\DAL.dll
+E:\Curso_Inglês\GUI\DAL\obj\Debug\DAL.pdb
+D:\ETEC\GUI\DAL\bin\Debug\DAL.dll
+D:\ETEC\GUI\DAL\bin\Debug\DAL.pdb
+D:\ETEC\GUI\DAL\bin\Debug\CircularProgressBar.dll
+D:\ETEC\GUI\DAL\bin\Debug\CommonWin32.dll
+D:\ETEC\GUI\DAL\bin\Debug\MetroFramework.Design.dll
+D:\ETEC\GUI\DAL\bin\Debug\MetroFramework.dll
+D:\ETEC\GUI\DAL\bin\Debug\MetroFramework.Fonts.dll
+D:\ETEC\GUI\DAL\bin\Debug\Modelos.dll
+D:\ETEC\GUI\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ETEC\GUI\DAL\bin\Debug\WinFormAnimation.dll
+D:\ETEC\GUI\DAL\bin\Debug\Modelos.pdb
+D:\ETEC\GUI\DAL\bin\Debug\CommonWin32.pdb
+D:\ETEC\GUI\DAL\bin\Debug\CommonWin32.xml
+D:\ETEC\GUI\DAL\obj\Debug\DAL.dll
+D:\ETEC\GUI\DAL\obj\Debug\DAL.pdb
+D:\ETEC\GUI\DAL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ETEC\GUI\DAL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ETEC\GUI\DAL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ETEC\GUI\DAL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ETEC\GUI\DAL\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\ETEC\GUI\DAL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\ETEC\GUI\DAL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\ETEC\GUI\DAL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\ETEC\GUI\DAL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\ETEC\GUI\DAL\bin\Debug\DAL.dll
+F:\ETEC\GUI\DAL\bin\Debug\DAL.pdb
+F:\ETEC\GUI\DAL\bin\Debug\CircularProgressBar.dll
+F:\ETEC\GUI\DAL\bin\Debug\CommonWin32.dll
+F:\ETEC\GUI\DAL\bin\Debug\MetroFramework.Design.dll
+F:\ETEC\GUI\DAL\bin\Debug\MetroFramework.dll
+F:\ETEC\GUI\DAL\bin\Debug\MetroFramework.Fonts.dll
+F:\ETEC\GUI\DAL\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\ETEC\GUI\DAL\bin\Debug\Modelos.dll
+F:\ETEC\GUI\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\ETEC\GUI\DAL\bin\Debug\WinFormAnimation.dll
+F:\ETEC\GUI\DAL\bin\Debug\Modelos.pdb
+F:\ETEC\GUI\DAL\bin\Debug\CommonWin32.pdb
+F:\ETEC\GUI\DAL\bin\Debug\CommonWin32.xml
+F:\ETEC\GUI\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\ETEC\GUI\DAL\obj\Debug\DAL.dll
+F:\ETEC\GUI\DAL\obj\Debug\DAL.pdb
+C:\Users\Gabriel\Desktop\GUI\DAL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gabriel\Desktop\GUI\DAL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gabriel\Desktop\GUI\DAL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gabriel\Desktop\GUI\DAL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gabriel\Desktop\GUI\DAL\bin\Debug\DAL.dll
+C:\Users\Gabriel\Desktop\GUI\DAL\bin\Debug\DAL.pdb
+C:\Users\Gabriel\Desktop\GUI\DAL\bin\Debug\CircularProgressBar.dll
+C:\Users\Gabriel\Desktop\GUI\DAL\bin\Debug\CommonWin32.dll
+C:\Users\Gabriel\Desktop\GUI\DAL\bin\Debug\MetroFramework.Design.dll
+C:\Users\Gabriel\Desktop\GUI\DAL\bin\Debug\MetroFramework.dll
+C:\Users\Gabriel\Desktop\GUI\DAL\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Gabriel\Desktop\GUI\DAL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gabriel\Desktop\GUI\DAL\bin\Debug\Modelos.dll
+C:\Users\Gabriel\Desktop\GUI\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gabriel\Desktop\GUI\DAL\bin\Debug\WinFormAnimation.dll
+C:\Users\Gabriel\Desktop\GUI\DAL\bin\Debug\Modelos.pdb
+C:\Users\Gabriel\Desktop\GUI\DAL\bin\Debug\CommonWin32.pdb
+C:\Users\Gabriel\Desktop\GUI\DAL\bin\Debug\CommonWin32.xml
+C:\Users\Gabriel\Desktop\GUI\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\GUI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\GUI\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\GUI\DAL\obj\Debug\DAL.dll
+C:\Users\Gabriel\Desktop\GUI\DAL\obj\Debug\DAL.pdb
+E:\ETEC\GUI\DAL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\ETEC\GUI\DAL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\ETEC\GUI\DAL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\ETEC\GUI\DAL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\ETEC\GUI\DAL\bin\Debug\DAL.dll
+E:\ETEC\GUI\DAL\bin\Debug\DAL.pdb
+E:\ETEC\GUI\DAL\bin\Debug\CircularProgressBar.dll
+E:\ETEC\GUI\DAL\bin\Debug\CommonWin32.dll
+E:\ETEC\GUI\DAL\bin\Debug\MetroFramework.Design.dll
+E:\ETEC\GUI\DAL\bin\Debug\MetroFramework.dll
+E:\ETEC\GUI\DAL\bin\Debug\MetroFramework.Fonts.dll
+E:\ETEC\GUI\DAL\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\ETEC\GUI\DAL\bin\Debug\Modelos.dll
+E:\ETEC\GUI\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ETEC\GUI\DAL\bin\Debug\WinFormAnimation.dll
+E:\ETEC\GUI\DAL\bin\Debug\Modelos.pdb
+E:\ETEC\GUI\DAL\bin\Debug\CommonWin32.pdb
+E:\ETEC\GUI\DAL\bin\Debug\CommonWin32.xml
+E:\ETEC\GUI\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\ETEC\GUI\DAL\obj\Debug\DAL.dll
+E:\ETEC\GUI\DAL\obj\Debug\DAL.pdb
+D:\ETEC\GUI\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\ETEC\GUI_Funcionando\DAL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ETEC\GUI_Funcionando\DAL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ETEC\GUI_Funcionando\DAL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ETEC\GUI_Funcionando\DAL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ETEC\GUI_Funcionando\DAL\bin\Debug\DAL.dll
+D:\ETEC\GUI_Funcionando\DAL\bin\Debug\DAL.pdb
+D:\ETEC\GUI_Funcionando\DAL\bin\Debug\CircularProgressBar.dll
+D:\ETEC\GUI_Funcionando\DAL\bin\Debug\CommonWin32.dll
+D:\ETEC\GUI_Funcionando\DAL\bin\Debug\MetroFramework.Design.dll
+D:\ETEC\GUI_Funcionando\DAL\bin\Debug\MetroFramework.dll
+D:\ETEC\GUI_Funcionando\DAL\bin\Debug\MetroFramework.Fonts.dll
+D:\ETEC\GUI_Funcionando\DAL\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ETEC\GUI_Funcionando\DAL\bin\Debug\Modelos.dll
+D:\ETEC\GUI_Funcionando\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ETEC\GUI_Funcionando\DAL\bin\Debug\WinFormAnimation.dll
+D:\ETEC\GUI_Funcionando\DAL\bin\Debug\Modelos.pdb
+D:\ETEC\GUI_Funcionando\DAL\bin\Debug\CommonWin32.pdb
+D:\ETEC\GUI_Funcionando\DAL\bin\Debug\CommonWin32.xml
+D:\ETEC\GUI_Funcionando\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\ETEC\GUI_Funcionando\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ETEC\GUI_Funcionando\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\ETEC\GUI_Funcionando\DAL\obj\Debug\DAL.dll
+D:\ETEC\GUI_Funcionando\DAL\obj\Debug\DAL.pdb
+D:\ETEC\TCC\GUI_Funcionando\DAL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ETEC\TCC\GUI_Funcionando\DAL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ETEC\TCC\GUI_Funcionando\DAL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ETEC\TCC\GUI_Funcionando\DAL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ETEC\TCC\GUI_Funcionando\DAL\bin\Debug\DAL.dll
+D:\ETEC\TCC\GUI_Funcionando\DAL\bin\Debug\DAL.pdb
+D:\ETEC\TCC\GUI_Funcionando\DAL\bin\Debug\CircularProgressBar.dll
+D:\ETEC\TCC\GUI_Funcionando\DAL\bin\Debug\CommonWin32.dll
+D:\ETEC\TCC\GUI_Funcionando\DAL\bin\Debug\MetroFramework.Design.dll
+D:\ETEC\TCC\GUI_Funcionando\DAL\bin\Debug\MetroFramework.dll
+D:\ETEC\TCC\GUI_Funcionando\DAL\bin\Debug\MetroFramework.Fonts.dll
+D:\ETEC\TCC\GUI_Funcionando\DAL\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ETEC\TCC\GUI_Funcionando\DAL\bin\Debug\Modelos.dll
+D:\ETEC\TCC\GUI_Funcionando\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ETEC\TCC\GUI_Funcionando\DAL\bin\Debug\WinFormAnimation.dll
+D:\ETEC\TCC\GUI_Funcionando\DAL\bin\Debug\Modelos.pdb
+D:\ETEC\TCC\GUI_Funcionando\DAL\bin\Debug\CommonWin32.pdb
+D:\ETEC\TCC\GUI_Funcionando\DAL\bin\Debug\CommonWin32.xml
+D:\ETEC\TCC\GUI_Funcionando\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\ETEC\TCC\GUI_Funcionando\DAL\obj\Debug\DAL.dll
+D:\ETEC\TCC\GUI_Funcionando\DAL\obj\Debug\DAL.pdb
+C:\Users\Gabriel\Desktop\GUI_Funcionando\DAL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\DAL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\DAL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\DAL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\DAL\bin\Debug\DAL.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\DAL\bin\Debug\DAL.pdb
+C:\Users\Gabriel\Desktop\GUI_Funcionando\DAL\bin\Debug\CircularProgressBar.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\DAL\bin\Debug\CommonWin32.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\DAL\bin\Debug\MetroFramework.Design.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\DAL\bin\Debug\MetroFramework.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\DAL\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\DAL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\DAL\bin\Debug\Modelos.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\DAL\bin\Debug\WinFormAnimation.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\DAL\bin\Debug\Modelos.pdb
+C:\Users\Gabriel\Desktop\GUI_Funcionando\DAL\bin\Debug\CommonWin32.pdb
+C:\Users\Gabriel\Desktop\GUI_Funcionando\DAL\bin\Debug\CommonWin32.xml
+C:\Users\Gabriel\Desktop\GUI_Funcionando\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\GUI_Funcionando\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\GUI_Funcionando\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\GUI_Funcionando\DAL\obj\Debug\DAL.dll
+C:\Users\Gabriel\Desktop\GUI_Funcionando\DAL\obj\Debug\DAL.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\DAL\obj\Debug\DAL.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\DAL\obj\Debug\DAL.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\DAL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\DAL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\DAL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\DAL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\DAL\bin\Debug\DAL.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\DAL\bin\Debug\DAL.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\DAL\bin\Debug\CircularProgressBar.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\DAL\bin\Debug\CommonWin32.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\DAL\bin\Debug\MetroFramework.Design.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\DAL\bin\Debug\MetroFramework.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\DAL\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\DAL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\DAL\bin\Debug\Modelos.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\DAL\bin\Debug\WinFormAnimation.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\DAL\bin\Debug\Modelos.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\DAL\bin\Debug\CommonWin32.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\DAL\bin\Debug\CommonWin32.xml
+C:\Users\Gabriel\Desktop\Meus Projetos\BiblioTec\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\DAL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\DAL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\DAL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\DAL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\DAL\bin\Debug\DAL.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\DAL\bin\Debug\DAL.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\DAL\bin\Debug\CommonWin32.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\DAL\bin\Debug\MetroFramework.Design.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\DAL\bin\Debug\MetroFramework.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\DAL\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\DAL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\DAL\bin\Debug\Modelos.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\DAL\bin\Debug\Modelos.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\DAL\bin\Debug\CommonWin32.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\DAL\bin\Debug\CommonWin32.xml
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\DAL\obj\Debug\DAL.dll
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\DAL\obj\Debug\DAL.pdb
+C:\Users\Gabriel\Desktop\Meus Projetos\prjBiblioteca\BiblioTec\DAL\obj\Debug\DAL.csproj.ResolveComReference.cache
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\DAL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\DAL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\DAL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\DAL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\DAL\bin\Debug\DAL.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\DAL\bin\Debug\DAL.pdb
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\DAL\bin\Debug\CommonWin32.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\DAL\bin\Debug\MetroFramework.Design.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\DAL\bin\Debug\MetroFramework.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\DAL\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\DAL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\DAL\bin\Debug\Modelos.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\DAL\bin\Debug\Modelos.pdb
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\DAL\bin\Debug\CommonWin32.pdb
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\DAL\bin\Debug\CommonWin32.xml
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\DAL\obj\Debug\DAL.csproj.ResolveComReference.cache
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\DAL\obj\Debug\DAL.dll
+C:\Users\ADM\Desktop\programa GABRIEL\prjBiblioteca\BiblioTec\DAL\obj\Debug\DAL.pdb
